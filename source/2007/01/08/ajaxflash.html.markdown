@@ -1,0 +1,30 @@
+---
+title: AJAX時代のFlash
+date: 2007/01/08
+tags: web20
+published: true
+
+---
+
+<a href="http://www.amazon.co.jp/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.jp%2FSEIBUNDO-MOOK-Web%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588-No-1-Web%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25E7%25B7%25A8%25E9%259B%2586%25E9%2583%25A8%2Fdp%2F4416606133&tag=katsumatv-22&linkCode=ur2&camp=247&creative=1211"><img alt="07010702.jpg" src="http://blog.katsuma.tv/images/07010702.jpg" border="0" width="82" height="106" /></a>
+
+デザインのネタ帳として、あと単純にデザインな話題が好き、という理由で<a href="http://www.amazon.co.jp/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.jp%2F%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25E2%2580%2595%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%259E%25E3%2582%25AC%25E3%2582%25B8%25E3%2583%25B3-No-6%2Fdp%2F441660601X&tag=katsumatv-22&linkCode=ur2&camp=247&creative=1211">デザインノート</a><img src="http://www.assoc-amazon.jp/e/ir?t=katsumatv-22&amp;l=ur2&amp;o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />という雑誌が好きなのですが、その派生版？で<a href="http://www.amazon.co.jp/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.jp%2FSEIBUNDO-MOOK-Web%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588-No-1-Web%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25E7%25B7%25A8%25E9%259B%2586%25E9%2583%25A8%2Fdp%2F4416606133&tag=katsumatv-22&linkCode=ur2&camp=247&creative=1211">Webデザインノート</a><img src="http://www.assoc-amazon.jp/e/ir?t=katsumatv-22&amp;l=ur2&amp;o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />という雑誌が発刊されていました。No.01ということでつい最近発刊されたみたいです。
+
+デザインノートはよくありがちな小手先テクニック集、みたいな雑誌ではなく、クリエイターの生の声をしっかり文字に起こしている、という点で読み手にとって嬉しい一冊です。パラパラ読んでみるとWebデザインノートもそれに漏れず、な雑誌のようで。ついつい衝動買いです。
+
+いざじっくり読んでみると、クリエイターにFlash使いで偏っていたのか（巻頭は中村勇吾さんでした）、全体的にFlashを使ったサイトの心地よいナビゲーション、サイトディレクション、プラニングなどの記事が多い感じでした。
+
+
+
+時代（というと大げさですが）は、やれAJAXだ、JSONだ、な流れではありますが、その中でじっくりFlashについて考え直させられたのはいい機会だと感じました。 個人的にもAJAXの必要以上な持ち上げられ方には、いささか疑問を感じることもあります。
+「何でこれわざわざJavaScriptで頑張ってるんだろう・・・」というフルAJAXなサイトもFlash使えばもっと簡単に（工数減らして）実装できるはずだろうに、と感じることも多くなっています。
+
+「AJAXは開発環境無料でできるんだよ！」な声もあるかもしれないですが、これは全くのナンセンスであって、いまやフリーでFlashの開発環境を簡単に整えられます。ActionScript3からはAdobe提供の<a href="http://www.adobe.com/jp/products/flex/">Flex2</a>＋Eclipseを利用することで十分な環境は整えられます。
+また、ActionScriptはJavaScriptと同等の文法でAPIも充実しているので、JavaScript開発者にとっても習得に壁は無いはずです。（むしろ型を明確に指定もできるActionScriptの方が言語的に素晴らしいと思います）
+
+「AJAXなのかFlashなのか？どっちを取るのか？」ではなくて、これらは適材適所で使い分け、もしくは両方使うべき技術です。外部APIやテキスト処理、HTMLとの親和性ならJavaScriptに軍配が上がりますし、自由なUIを作るならFlashを利用した方が確実に強いです。たとえば<a href="http://www.stompstamp.com/">Stomp Stamp</a>のサイトなんてFlashじゃないとこの小気味イィUIを実装するのは難しいでしょう。
+
+また、WebカメラやマイクなどFlashでしか扱えないものはFlashに任せて、付随情報の扱いはAJAX化、というのも手です。
+<a href="http://looc.jp/">Looc</a>の<a href="http://looc.jp/?m=pc&a=page_h_pr&c=live4">Live4</a>ではライブの送受信はFlashを利用してますが、セッション情報のリアルタイム表示にはAJAXを利用しています。セッション情報のみAJAX化することで、他のモジュールへの横展開が容易になり、ガジェットなどのBlogパーツ化への応用も簡単に行える利点もあります。
+
+AJAXが謳われる時代だからこそ、「ここって実はFlashで作った方が早いんでは？」と考えることの大事さを感じさせられました。

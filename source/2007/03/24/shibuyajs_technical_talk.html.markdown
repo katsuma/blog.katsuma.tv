@@ -1,0 +1,370 @@
+---
+title: 'Shibuya.js Technical Talk #3 - Shibuya.es'
+date: 2007/03/24
+tags: javascript
+published: true
+
+---
+
+<a href="http://www.flickr.com/photos/katsuma/432148364/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/177/432148364_b8cb2031b2_m.jpg" width="240" height="180" alt="Shibuya.js Technical Talk #3 - Shibuya.es" /></a>
+
+デジタルハリウッド大学秋葉原セカンドキャンパスで開かれた<a href="http://shibuyajs.org/articles/2007/03/09/shibuya-js-technical-talk-3-shibuya-es">「Shibuya.js Technical Talk #3 - Shibuya.es」</a>に行ってきました。行ってきました、、と、いうか今回は<a href="http://www.dhw.ac.jp/index.html">デジハリさん</a>、<a href="http://stream.i-revo.jp/event/shibuya.es/">i-revo</a>さんの協力の下、Loocでの配信のため。
+
+当日になってネットワークの調整が非常に難しいことが発覚して「うーん。配信無理っぽいw」と、かなり焦ったのですが、i-revoさんのお力でなんとかLooc側でも配信ができました。（本当にありがとうございます！）
+
+で、以下、配信しつつのメモです。
+GoogleDocsでがーーっとメモってただけなので間違いとかあったらゴメンナサイ！
+
+
+
+<p>
+  amachangさん
+</p>
+<ul>
+  <li>
+    Timer
+  </li>
+  <ul>
+    <li>
+      setIntervalより楽らしい
+    </li>
+  </ul>
+  <li>
+    hoge.public::foo
+  </li>
+  <ul>
+    <li>
+      みたいにアクセスできるらしい
+    </li>
+  </ul>
+  <li>
+    namespace
+  </li>
+  <ul>
+    <li>
+      こんなんあったのか
+    </li>
+  </ul>
+  <li>
+    Traits
+  </li>
+  <ul>
+    <li>
+      継承方法
+    </li>
+    <li>
+      prototypeより高速？優先参照される
+    </li>
+  </ul>
+  <li>
+    dynamic class
+  </li>
+  <ul>
+    <li>
+      どんどんプロパティに追加していくやつ
+    </li>
+  </ul>
+</ul>
+<p>
+  <br/>
+  abuiさん
+</p>
+<ul>
+  <li>
+    ライブドアの人（アルバイト）
+  </li>
+  <li>
+    Cycal
+  </li>
+  <ul>
+    <li>
+      表計算
+    </li>
+  </ul>
+  <li>
+    問題
+  </li>
+  <li>
+    範囲選択を高速に
+  </li>
+  <ul>
+    <li>
+      CSSで選択範囲を描画
+    </li>
+    <li>
+      まともに計算していたら遅くなる
+    </li>
+  </ul>
+  <li>
+    ローカル処理できない？
+  </li>
+  <ul>
+    <li>
+      ファイルの保存、読み出し
+    </li>
+    <li>
+      グラフ生成（PHP）
+    </li>
+    <li>
+      この２点をローカルにできたら
+    </li>
+  </ul>
+  <li>
+    SharedObjectを使えない？
+  </li>
+  <ul>
+    <li>
+      jsからSharedObjectにアクセスするためのライブラリもあり
+    </li>
+  </ul>
+  <li>
+    マトリックスを自動更新（合計、平均など）に時間がかかるっぽい
+  </li>
+</ul>
+<p>
+  <br/>
+  cho34さん
+</p>
+<ul>
+  <li>
+    大学３年
+  </li>
+  <li>
+    まるごとJavaScriptのGMの作者
+  </li>
+  <li>
+    E4X
+  </li>
+  <ul>
+    <li>
+      "."でプロパティをたどるようにアクセスできる
+    </li>
+  </ul>
+  <li>
+    属性や式を使った選択
+  </li>
+  <ul>
+    <li>
+      うーん、よくわかんない
+    </li>
+  </ul>
+  <li>
+    DOM
+  </li>
+  <ul>
+    <li>
+      DocumentFragment
+    </li>
+  </ul>
+  <li>
+    FirefoxやOperaでだけインプリされてる？
+  </li>
+</ul>
+<p>
+  <br/>
+  sendさん
+</p>
+<ul>
+  <li>
+      FirebugのAPI？  </li>
+  <ul>
+    <li>
+        cd, clear
+    </li>
+    <li>
+        copy, $0...n
+    </li>
+  </ul>
+  <li>
+      Netタブ
+  </li>
+  <ul>
+    <li>
+        速度がみれる
+    </li>
+  </ul>
+  <li>
+      Flash用のFirebugもあるらしい
+  </li>
+  <li>
+      Firebugのソースはよんだほうがいいらしい
+  </li>
+  <ul>
+    <li>
+        by amachang
+    </li>
+  </ul>
+</ul>
+<p>
+  <br/>
+  omoさん
+</p>
+<ul>
+  <li>
+      &nbsp;AS-&gt;MIR-&gt;x86<br/>
+  </li>
+</ul>
+<p>
+  <br/>
+  kobayasi yuさん
+</p>
+<ul>
+  <li>
+      &nbsp;Narcissus
+  </li>
+  <ul>
+    <li>
+        JavaScriptのJavaScript実装
+    </li>
+    <li>
+        do-while実装はdo-while
+    </li>
+    <li>
+        英語のWikiに説明があるらしい<br/>
+    </li>
+  </ul>
+</ul>
+<p>
+  竹迫さん
+</p>
+<ul>
+  <li>
+      LiveConnect
+  </li>
+  <ul>
+    <li>
+        JavaのオブジェクトをJavaScriptから呼べる
+    </li>
+  </ul>
+  <li>
+      Flashのeval
+  </li>
+  <ul>
+    <li>
+        eval自体は廃止されるらしい
+    </li>
+    <li>
+        Flashy.swfが便利っぽい
+    </li>
+    <li>
+      Staticな関数も呼び出せる
+    </li>
+    <ul>
+      <li>
+          id:brazilさんもプロキシ作成
+      </li>
+    </ul>
+    <li>
+dataスキーマでswfをJavaScriptで生成しようとこころみたり
+    </li>
+    <ul>
+      <li>
+Player9からは無理みたい
+      </li>
+    </ul>
+  </ul>
+</ul>
+<p>
+  kusigahamaさん
+</p>
+<ul>
+  <li>
+半紙をWebCamでうつしてFlashPlayer上でうつす
+  </li>
+</ul>
+<p>
+  &nbsp;
+</p>
+<p>
+  secondlifeさん
+</p>
+<ul>
+  <li>
+fcsh をつかうとFlexのコンパイルもはやいらしい
+  </li>
+  <li>
+だけど面倒みたい？
+  </li>
+  <li>
+なのでfcwrapを作成したらしい
+  </li>
+  <li>
+コードをかくと自動コンパイル→勝手にリロード
+  </li>
+  <li>
+ apolloも対応
+  </li>
+</ul>
+<br />
+<p>
+  nazokingさん
+</p>
+<ul>
+  <li>
+wii_debug.js
+  </li>
+  <li>
+try-castchでデータをリモートに投げたり
+  </li>
+</ul>
+<p>
+  <br/>
+  mayukiさん
+</p>
+<ul>
+  <li>
+WPF/Fについて
+  </li>
+  <li>
+...でもFlashで十分らしい
+  </li>
+  <li>
+WPFをJavaScriptからいじるもの
+  </li>
+</ul>
+<p>
+  <br/>
+  torusさん
+</p>
+<ul>
+  <li>
+haXe（エックス）
+  </li>
+  <li>
+Java/JavaScriptに似た言語
+  </li>
+</ul>
+  <br/>
+<p>
+  ma.laさん
+</p>
+<ul>
+  <li>
+1万件しかエラーがもてないらしい
+  </li>
+  <li>
+onErrorを上書きするとエラーを抑制できるらしい
+  </li>
+  <li>
+クッキーにエラーをはかせる
+  </li>
+</ul>
+
+---
+
+個人的に印象に残った話題はこんな感じ。
+
+・amachangさん
+話にでてきたActionScriptのnamespace。仕様を読んでいない自分も悪いわけですがこれは便利そう＋使ってみよう。
+
+・竹迫さん
+ActionScruot+JavaScriptの連携のもろもろのテクニック＋ライブラリは自分の手でさわってもっかいおさらいしておきたい。
+
+・secondlifeさん
+fcwrap。これめちゃめちゃ便利そう。要チェックすぎる
+
+---
+
+こんな感じでしょうかね。
+
+さてさて。技術系セミナーをi-revoさんと一緒に配信させていただく、という流れがややできつつあるわけですが、次は6月に<a href="http://jp.rubyist.net/RubyKaigi2007/">日本Ruby会議2007</a>をもしかしたら配信させていただけるかも？です。また決まったらここやLoocでお知らせします！
