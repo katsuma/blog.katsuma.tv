@@ -9,10 +9,6 @@ module.exports = {
     filename: 'bundle.css'
   },
 
-  resolve: {
-    modules: ['node_modules']
-  },
-
   module: {
     rules: [
       {
