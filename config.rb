@@ -7,7 +7,6 @@ activate :blog do |blog|
   blog.permalink = "{year}/{month}/{title}.html"
   blog.sources = "{year}/{month}/{day}/{title}.html"
   blog.taglink = "tags/{tag}.html"
-  blog.layout = "layout"
 
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
@@ -36,3 +35,9 @@ configure :build do
   activate :minify_css
   activate :minify_javascript
 end
+
+activate :external_pipeline,
+  name: :webpack,
+  command: build? ? './node_modules/webpack/bin/webpack.js --bail' : './node_modules/webpack/bin/webpack.js --watch -d',
+  source: ".tmp/dist",
+  latency: 1

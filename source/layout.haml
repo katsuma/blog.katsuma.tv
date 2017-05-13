@@ -1,0 +1,44 @@
+!!!5
+%html{ xmlns: "http://www.w3.org/1999/xhtml", lang: "ja",  :'xml:lang' => "ja", dir: "ltr",  :'xmlns:og' => "http://ogp.me/ns#", 'xmlns:fb' => "http://www.facebook.com/2008/fbml" }
+  %head
+    %meta{ content: "IE=edge", "http-equiv" => "X-UA-Compatible" }
+    %meta{ charset: "utf-8" }
+    %meta{ content: "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no", name: "viewport" }
+    %meta{ content: "blog.katsuma.tv", name: "title" }
+    %meta{ content: "空飛ぶピクニック, フェス, ライブ, イベント, ピクニック", name: "keywords" }
+    %meta{ content: "適当に直感で思ったことを何も考えず発信", name: "description" }
+
+    %meta{ property: "og:title", content: "blog.katsuma.tv" }
+    %meta{ property: "og:type", content: "article" }
+    %meta{ property: "og:url", content: "https://blog.katsuma.tv" }
+    %meta{ property: "og:image", content: "https://blog.katsuma.tv/images/ogp.png" }
+    %meta{ property: "og:site_name", content: "blog.katsuma.tv" }
+    %meta{ property: "og:description", content: "適当に直感で思ったことを何も考えず発信" }
+    %meta{ property: "fb:app_id", content: "110236365751632" }
+
+    %title blog.katsuma.tv
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+
+  %body
+    #main
+      = yield
+
+    %aside
+      %h2 Recent Articles
+      %ol
+        - blog.articles[0...10].each do |article|
+          %li
+            = link_to article.title, article
+            %span= article.date.strftime('%b %e')
+
+      %h2 Tags
+      %ol
+        - blog.tags.each do |tag, articles|
+          %li
+            = link_to "#{tag} (#{articles.size})", tag_path(tag)
+
+      %h2 By Year
+      %ol
+        - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+          %li
+            = link_to "#{year} (#{articles.size})", blog_year_path(year)
