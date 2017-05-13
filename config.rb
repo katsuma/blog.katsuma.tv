@@ -5,7 +5,7 @@ page '/*.txt', layout: false
 
 activate :blog do |blog|
   blog.permalink = "{year}/{month}/{title}.html"
-  blog.sources = "{year}/{month}/{day}/{title}.html"
+  blog.sources = "entries/{year}/{month}/{day}/{title}.html"
   blog.taglink = "tags/{tag}.html"
 
   # blog.summary_separator = /(READMORE)/
