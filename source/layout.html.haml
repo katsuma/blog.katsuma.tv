@@ -33,13 +33,13 @@
 
     %hr
 
-    %footer
+    %footer.section
       .container
         .columns
           .content.column
             %h2 Recent Articles
             %ul
-              - blog.articles[0...10].each do |article|
+              - blog.articles[0...5].each do |article|
                 %li
                   = link_to article.title, article
 
@@ -49,3 +49,22 @@
               - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
                 %li
                   = link_to "#{year} (#{articles.size})", blog_year_path(year)
+
+          .content.column
+            .card
+              .card-image
+                %figure.image.is-2by1
+                  = image_tag 'profile-background.jpg'
+              .card-content
+                .media
+                  .media-left
+                    %figure.image.is-48x48
+                      = image_tag 'me.jpg', alt: 'katsuma'
+                  .media-content
+                    %p.title.is-4 ryo katsuma
+                    %p.subtitle.is-6= link_to "@ryo_katsuma", "https://twitter.com/ryo_katsuma"
+                .content
+                  Web enginner and Manager at #{link_to "Cookpad Inc.", "https://cookpad.com/"}
+                  #{link_to "Twitter", "https://twitter.com/ryo_katsuma/s"} /
+                  #{link_to "Facebook", "https://facebook.com/katsuma/"} /
+                  #{link_to "Profile", "/2005/05/about.html"}
