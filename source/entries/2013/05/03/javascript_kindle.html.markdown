@@ -1,6 +1,6 @@
 ---
 title: "「すべての人に知っておいてほしい JavaScriptの基本原則」がKindleでも発売になりました"
-date: 2013/05/03
+date: 2013/05/03 14:15:40
 tags: book
 published: true
 

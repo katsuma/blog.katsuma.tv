@@ -1,6 +1,6 @@
 ---
 title: WEB+DB PRESS Tech Meetingに行ってきました
-date: 2007/12/21
+date: 2007/12/21 02:59:39
 tags: develop
 published: true
 

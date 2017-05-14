@@ -1,6 +1,6 @@
 ---
 title: JSONの文字列リテラルはダブルクオートしか使えない
-date: 2008/02/26
+date: 2008/02/26 01:38:51
 tags: actionscript
 published: true
 

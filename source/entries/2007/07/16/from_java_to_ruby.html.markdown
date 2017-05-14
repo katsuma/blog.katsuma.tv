@@ -1,6 +1,6 @@
 ---
 title: JavaからRubyへ
-date: 2007/07/16
+date: 2007/07/16 23:04:29
 tags: book
 published: true
 

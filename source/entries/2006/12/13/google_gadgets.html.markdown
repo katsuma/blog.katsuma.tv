@@ -1,6 +1,6 @@
 ---
 title: Google Gadgets作りました
-date: 2006/12/13
+date: 2006/12/13 03:06:14
 tags: develop
 published: true
 

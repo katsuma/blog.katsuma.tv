@@ -1,6 +1,6 @@
 ---
 title: mod_auth_mysqlを利用してBasic認証にMySQLのデータを利用する
-date: 2007/10/11
+date: 2007/10/11 23:57:46
 tags: apache
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: Flickrがいつの間にか正式版？に
-date: 2007/11/27
+date: 2007/11/27 02:11:31
 tags: web20
 published: true
 

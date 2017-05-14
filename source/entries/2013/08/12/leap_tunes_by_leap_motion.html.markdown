@@ -1,6 +1,6 @@
 ---
 title: LeapMotionとRubyでiTunesを制御できるLeapTunesを作りました
-date: 2013/08/12
+date: 2013/08/12 00:23:09
 tags: ruby
 published: true
 

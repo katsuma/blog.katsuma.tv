@@ -1,6 +1,6 @@
 ---
 title: Middleman + SinatraでALOHA FISHMANSのサイトをリニューアルしました
-date: 2014/03/09
+date: 2014/03/09 03:32:18
 tags: ruby
 published: true
 

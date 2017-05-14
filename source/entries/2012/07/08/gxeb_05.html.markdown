@@ -1,6 +1,6 @@
 ---
 title: GXEB#05「じわじわくるエンジニアリング」にスピーカーで参加しました
-date: 2012/07/08
+date: 2012/07/08 00:42:48
 tags: ruby
 published: true
 

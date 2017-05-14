@@ -1,6 +1,6 @@
 ---
 title: Tokyo-JoggingをSnow Leopardに対応させました
-date: 2009/10/05
+date: 2009/10/05 01:49:06
 tags: tokyojogging
 published: true
 

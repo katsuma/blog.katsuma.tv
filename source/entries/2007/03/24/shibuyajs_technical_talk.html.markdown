@@ -1,6 +1,6 @@
 ---
 title: 'Shibuya.js Technical Talk #3 - Shibuya.es'
-date: 2007/03/24
+date: 2007/03/24 15:27:23
 tags: javascript
 published: true
 

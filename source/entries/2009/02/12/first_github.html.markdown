@@ -1,6 +1,6 @@
 ---
 title: はじめてのgithub
-date: 2009/02/12
+date: 2009/02/12 01:15:45
 tags: develop
 published: true
 

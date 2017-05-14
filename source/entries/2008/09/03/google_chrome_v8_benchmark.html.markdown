@@ -1,6 +1,6 @@
 ---
 title: Google ChromeのJavaScriptエンジンV8の性能評価
-date: 2008/09/03
+date: 2008/09/03 04:38:28
 tags: javascript
 published: true
 

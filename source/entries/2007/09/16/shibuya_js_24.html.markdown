@@ -1,6 +1,6 @@
 ---
 title: 出張Shibuya.JSにいってきました
-date: 2007/09/16
+date: 2007/09/16 23:46:51
 tags: javascript
 published: true
 

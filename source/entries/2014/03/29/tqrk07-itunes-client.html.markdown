@@ -1,6 +1,6 @@
 ---
 title: TokyuRuby会議07でitunes-clientの発表をしてきました
-date: 2014/03/29
+date: 2014/03/29 15:45:09
 tags: ''
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: mixiを越える（かもしれない）
-date: 2006/06/01
+date: 2006/06/01 00:51:41
 tags: sns
 published: true
 

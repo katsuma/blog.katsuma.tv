@@ -1,6 +1,6 @@
 ---
 title: iTunesの操作をラップするgem、itunes-clientをリリースしました
-date: 2013/06/09
+date: 2013/06/09 23:03:57
 tags: ruby
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: エントリーにソーシャルブックマークのコメントを追加するJavaScript
-date: 2008/04/27
+date: 2008/04/27 00:39:34
 tags: javascript
 published: true
 

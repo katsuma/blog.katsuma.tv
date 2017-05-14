@@ -1,6 +1,6 @@
 ---
 title: 2011年を振り返る
-date: 2011/12/30
+date: 2011/12/30 11:45:35
 tags: diary
 published: true
 

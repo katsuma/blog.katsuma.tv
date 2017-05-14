@@ -1,6 +1,6 @@
 ---
 title: 日付ごとのアクセス数をカウントするSQL
-date: 2009/03/01
+date: 2009/03/01 01:22:56
 tags: mysql
 published: true
 

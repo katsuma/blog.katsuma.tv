@@ -1,6 +1,6 @@
 ---
 title: mixiの絵文字を消去するbookmarklet
-date: 2008/03/01
+date: 2008/03/01 03:16:35
 tags: javascript
 published: true
 

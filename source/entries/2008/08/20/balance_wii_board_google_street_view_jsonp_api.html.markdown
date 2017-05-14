@@ -1,6 +1,6 @@
 ---
 title: バランスWiiボードでGoogleストリートビューを操作するJSONP API
-date: 2008/08/20
+date: 2008/08/20 21:43:37
 tags: java
 published: true
 

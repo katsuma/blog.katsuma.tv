@@ -1,6 +1,6 @@
 ---
 title: 勝間本をいくつか読んでみました
-date: 2008/02/24
+date: 2008/02/24 22:22:10
 tags: book
 published: true
 

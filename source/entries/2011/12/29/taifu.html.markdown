@@ -1,6 +1,6 @@
 ---
 title: YouTubeの音声をiTunesに転送する
-date: 2011/12/29
+date: 2011/12/29 21:16:12
 tags: ruby
 published: true
 

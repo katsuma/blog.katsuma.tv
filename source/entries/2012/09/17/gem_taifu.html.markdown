@@ -1,6 +1,6 @@
 ---
 title: YouTubeの音声をiTunesに転送するgem - taifu
-date: 2012/09/17
+date: 2012/09/17 23:13:05
 tags: ruby
 published: true
 

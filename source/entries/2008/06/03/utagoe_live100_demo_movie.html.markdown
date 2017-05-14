@@ -1,6 +1,6 @@
 ---
 title: Utagoe Live100のデモ映像をアップロード
-date: 2008/06/03
+date: 2008/06/03 00:16:53
 tags: actionscript
 published: true
 

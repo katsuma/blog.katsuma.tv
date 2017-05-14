@@ -1,6 +1,6 @@
 ---
 title: モダンブラウザでAppletを扱うときに知っておくこと
-date: 2009/04/07
+date: 2009/04/07 07:41:42
 tags: develop
 published: true
 

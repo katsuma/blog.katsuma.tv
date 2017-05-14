@@ -1,6 +1,6 @@
 ---
 title: 自家製ジンジャーエールに挑戦
-date: 2008/08/10
+date: 2008/08/10 15:41:35
 tags: diary
 published: true
 

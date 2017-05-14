@@ -1,6 +1,6 @@
 ---
 title: 僕たちがUstreamよりTwitterを使う理由
-date: 2007/04/23
+date: 2007/04/23 14:56:18
 tags: web20
 published: true
 

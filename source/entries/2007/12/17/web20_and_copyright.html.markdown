@@ -1,6 +1,6 @@
 ---
 title: "「Web2.0と著作権の本質」を聴講してきました"
-date: 2007/12/17
+date: 2007/12/17 01:21:02
 tags: web20
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: zshのプロンプトを見やすい配色にする
-date: 2007/09/21
+date: 2007/09/21 16:45:14
 tags: develop
 published: true
 

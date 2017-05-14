@@ -1,6 +1,6 @@
 ---
 title: EC2でterminate-clusterしてもインスタンスが終了しないときの対策
-date: 2010/02/15
+date: 2010/02/15 02:44:04
 tags: aws
 published: true
 

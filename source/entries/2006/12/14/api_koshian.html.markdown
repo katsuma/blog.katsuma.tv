@@ -1,6 +1,6 @@
 ---
 title: '文章からキーワードを抜き出すAPI: KOSHIAN'
-date: 2006/12/14
+date: 2006/12/14 02:29:38
 tags: develop
 published: true
 

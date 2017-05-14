@@ -1,6 +1,6 @@
 ---
 title: もごもごガジェットを作りかけた
-date: 2007/05/25
+date: 2007/05/25 02:28:39
 tags: develop
 published: true
 

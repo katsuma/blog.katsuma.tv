@@ -1,6 +1,6 @@
 ---
 title: CakePHP1.2のエラーページは仕様が変わってる
-date: 2008/06/18
+date: 2008/06/18 23:38:42
 tags: php
 published: true
 

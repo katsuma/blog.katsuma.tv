@@ -1,6 +1,6 @@
 ---
 title: Form.Element.Observerをクリアする
-date: 2007/03/14
+date: 2007/03/14 02:44:59
 tags: javascript
 published: true
 

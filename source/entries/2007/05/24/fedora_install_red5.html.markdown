@@ -1,6 +1,6 @@
 ---
 title: FedoraにRed5をインストール
-date: 2007/05/24
+date: 2007/05/24 03:00:21
 tags: develop
 published: true
 

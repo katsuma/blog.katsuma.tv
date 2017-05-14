@@ -1,6 +1,6 @@
 ---
 title: Amazon S3を導入してみました
-date: 2007/11/21
+date: 2007/11/21 00:57:25
 tags: web20
 published: true
 

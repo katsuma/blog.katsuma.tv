@@ -1,6 +1,6 @@
 ---
 title: Cnet Tech Venture 2008 最終10社に選ばれました
-date: 2008/02/21
+date: 2008/02/21 00:23:10
 tags: diary
 published: true
 

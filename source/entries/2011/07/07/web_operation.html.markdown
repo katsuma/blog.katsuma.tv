@@ -1,6 +1,6 @@
 ---
 title: "「ウェブオペレーション」を献本いただきました"
-date: 2011/07/07
+date: 2011/07/07 02:58:57
 tags: book
 published: true
 

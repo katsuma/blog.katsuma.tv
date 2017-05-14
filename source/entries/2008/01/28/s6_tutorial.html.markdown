@@ -1,6 +1,6 @@
 ---
 title: プレゼンテーションライブラリS6の使い方（入門編）
-date: 2008/01/28
+date: 2008/01/28 00:00:22
 tags: javascript
 published: true
 

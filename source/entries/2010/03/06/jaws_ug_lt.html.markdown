@@ -1,6 +1,6 @@
 ---
 title: 第0回AWS User Group Japan勉強会でLTしてきました
-date: 2010/03/06
+date: 2010/03/06 15:58:53
 tags: ''
 published: true
 

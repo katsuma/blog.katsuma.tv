@@ -1,6 +1,6 @@
 ---
 title: Kitasando.asで発表してきました
-date: 2008/12/07
+date: 2008/12/07 01:34:19
 tags: actionscript
 published: true
 

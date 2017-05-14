@@ -1,6 +1,6 @@
 ---
 title: Twitterのロゴの色が濃くなったのを元に戻すCSS
-date: 2008/03/25
+date: 2008/03/25 02:32:43
 tags: develop
 published: true
 

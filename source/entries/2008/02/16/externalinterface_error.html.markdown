@@ -1,6 +1,6 @@
 ---
 title: ExternalInterfaceでActionScriptの関数呼び出し失敗への対策
-date: 2008/02/16
+date: 2008/02/16 14:56:32
 tags: actionscript
 published: true
 

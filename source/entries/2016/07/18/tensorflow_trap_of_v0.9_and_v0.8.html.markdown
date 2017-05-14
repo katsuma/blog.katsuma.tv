@@ -1,6 +1,6 @@
 ---
 title: TensorFlow / TF Learn v0.9のDNNClassifier / TensorFlowDNNClassifierの罠
-date: 2016/07/18
+date: 2016/07/18 02:05:01
 tags: tensorflow
 published: true
 

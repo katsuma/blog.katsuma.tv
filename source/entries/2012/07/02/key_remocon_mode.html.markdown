@@ -1,6 +1,6 @@
 ---
 title: キーボードからTVのチャンネルとボリュームを簡単に変更する
-date: 2012/07/02
+date: 2012/07/02 00:16:55
 tags: ruby
 published: true
 

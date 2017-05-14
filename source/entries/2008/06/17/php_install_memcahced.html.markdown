@@ -1,6 +1,6 @@
 ---
 title: PHPでmemcachedを利用する
-date: 2008/06/17
+date: 2008/06/17 01:43:19
 tags: php
 published: true
 

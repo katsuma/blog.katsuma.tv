@@ -1,6 +1,6 @@
 ---
 title: DVDデータをチャプタ毎にリッピング/wav変換するLionに対応したgem 'musical'
-date: 2011/11/06
+date: 2011/11/06 23:57:21
 tags: ruby
 published: true
 

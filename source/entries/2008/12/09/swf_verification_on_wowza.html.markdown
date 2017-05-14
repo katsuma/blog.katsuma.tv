@@ -1,6 +1,6 @@
 ---
 title: Wowza Media ServerでSWFVerification(っぽいこと)をする方法
-date: 2008/12/09
+date: 2008/12/09 02:59:20
 tags: actionscript
 published: true
 

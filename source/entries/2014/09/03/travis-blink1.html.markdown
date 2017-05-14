@@ -1,6 +1,6 @@
 ---
 title: TravisCIの結果を光で通知するtravis-blink1を作りました
-date: 2014/09/03
+date: 2014/09/03 01:13:37
 tags: ruby
 published: true
 

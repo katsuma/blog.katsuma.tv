@@ -1,6 +1,6 @@
 ---
 title: SiriProxyのプラグインとしてSiriで家電を操作するSiriProxy-iRemocon
-date: 2013/01/05
+date: 2013/01/05 05:11:04
 tags: ruby
 published: true
 

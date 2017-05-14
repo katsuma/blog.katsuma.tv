@@ -1,6 +1,6 @@
 ---
 title: ActionScript3でFLVをストリーミングでリピート再生
-date: 2008/02/24
+date: 2008/02/24 03:04:21
 tags: actionscript
 published: true
 

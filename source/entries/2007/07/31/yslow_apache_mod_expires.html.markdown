@@ -1,6 +1,6 @@
 ---
 title: YSlow対策でmod_expiresを利用してHTTPレスポンスヘッダにExpiresを追加する
-date: 2007/07/31
+date: 2007/07/31 20:20:54
 tags: apache
 published: true
 

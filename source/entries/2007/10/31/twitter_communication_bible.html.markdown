@@ -1,6 +1,6 @@
 ---
 title: " TwitterAPIでひとことガジェットが書籍に掲載されました"
-date: 2007/10/31
+date: 2007/10/31 21:43:38
 tags: diary
 published: true
 

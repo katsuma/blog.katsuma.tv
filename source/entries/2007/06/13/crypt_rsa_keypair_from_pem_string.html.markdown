@@ -1,6 +1,6 @@
 ---
 title: Crypt_RSA_KeyPairでfromPEMStringが動かない
-date: 2007/06/13
+date: 2007/06/13 19:50:28
 tags: php
 published: true
 

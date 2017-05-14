@@ -1,6 +1,6 @@
 ---
 title: BlogをiPhone対応させてみました
-date: 2008/07/30
+date: 2008/07/30 17:59:02
 tags: diary
 published: true
 

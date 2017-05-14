@@ -1,6 +1,6 @@
 ---
 title: デブサミ2007に行ってきました
-date: 2007/02/21
+date: 2007/02/21 02:47:57
 tags: develop
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: WD Live! 株式会社はてなと考えるにっぽんのWeb2.0
-date: 2007/04/21
+date: 2007/04/21 01:34:00
 tags: web20
 published: true
 

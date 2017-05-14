@@ -1,6 +1,6 @@
 ---
 title: Googleの野望がアツすぎる
-date: 2006/12/11
+date: 2006/12/11 01:13:07
 tags: develop
 published: true
 

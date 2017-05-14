@@ -1,6 +1,6 @@
 ---
 title: yumで入れたPHPをソースからコンパイルしたPHPと入れ替える
-date: 2009/01/07
+date: 2009/01/07 23:03:06
 tags: php
 published: true
 

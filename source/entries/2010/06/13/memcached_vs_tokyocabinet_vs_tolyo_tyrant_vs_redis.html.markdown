@@ -1,6 +1,6 @@
 ---
 title: memcached vs TokyoCabinet vs TokyoTyrant vs Redis
-date: 2010/06/13
+date: 2010/06/13 02:39:01
 tags: kvs
 published: true
 

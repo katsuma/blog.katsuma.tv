@@ -1,6 +1,6 @@
 ---
 title: インストールレスによるP2Pライブ「UG Live 2」について
-date: 2009/02/22
+date: 2009/02/22 22:57:35
 tags: p2p
 published: true
 

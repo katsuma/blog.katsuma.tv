@@ -1,6 +1,6 @@
 ---
 title: taifu-0.1.0をリリースしました
-date: 2013/07/07
+date: 2013/07/07 00:52:25
 tags: ruby
 published: true
 

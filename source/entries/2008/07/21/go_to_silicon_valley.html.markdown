@@ -1,6 +1,6 @@
 ---
 title: シリコンバレーに出張していました
-date: 2008/07/21
+date: 2008/07/21 04:36:05
 tags: diary
 published: true
 

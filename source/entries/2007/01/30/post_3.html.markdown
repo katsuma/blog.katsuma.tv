@@ -1,6 +1,6 @@
 ---
 title: 細野晴臣トリビュート（仮）がスゴい！！
-date: 2007/01/30
+date: 2007/01/30 00:05:17
 tags: music
 published: true
 

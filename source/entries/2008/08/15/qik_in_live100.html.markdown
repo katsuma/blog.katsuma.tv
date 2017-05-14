@@ -1,6 +1,6 @@
 ---
 title: Live100でQikの動画を取り込み
-date: 2008/08/15
+date: 2008/08/15 02:32:41
 tags: actionscript
 published: true
 

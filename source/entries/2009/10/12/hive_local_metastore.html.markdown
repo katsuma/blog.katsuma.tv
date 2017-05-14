@@ -1,6 +1,6 @@
 ---
 title: HiveのmetastoreをMySQLを使ってLocal Metastore形式で利用する
-date: 2009/10/12
+date: 2009/10/12 00:56:17
 tags: hadoop
 published: true
 

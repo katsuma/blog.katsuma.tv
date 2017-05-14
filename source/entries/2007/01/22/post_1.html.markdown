@@ -1,6 +1,6 @@
 ---
 title: いろいろプチ機能を追加しました
-date: 2007/01/22
+date: 2007/01/22 02:35:46
 tags: diary
 published: true
 

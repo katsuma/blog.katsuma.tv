@@ -1,6 +1,6 @@
 ---
 title: 人気サービスの舞台裏「Webサービス開発徹底攻略」が発売されます
-date: 2013/01/24
+date: 2013/01/24 02:22:18
 tags: book
 published: true
 

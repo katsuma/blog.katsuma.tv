@@ -1,6 +1,6 @@
 ---
 title: MT5でmarkdownで記事を書いたときにおけるRSS, Atomの対応
-date: 2013/03/04
+date: 2013/03/04 22:38:11
 tags: ''
 published: true
 

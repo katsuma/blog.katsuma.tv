@@ -1,6 +1,6 @@
 ---
 title: "「もごもご」を試してみました"
-date: 2007/05/10
+date: 2007/05/10 01:35:41
 tags: web20
 published: true
 

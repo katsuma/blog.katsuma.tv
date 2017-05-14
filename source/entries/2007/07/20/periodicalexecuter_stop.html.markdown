@@ -1,6 +1,6 @@
 ---
 title: PeriodicalExecuterを停止させる
-date: 2007/07/20
+date: 2007/07/20 02:14:04
 tags: javascript
 published: true
 

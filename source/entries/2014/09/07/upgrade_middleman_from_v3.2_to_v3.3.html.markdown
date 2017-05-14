@@ -1,6 +1,6 @@
 ---
 title: middleman 3.2系から3.3系へupgrade時、wrap_layoutに気をつける
-date: 2014/09/07
+date: 2014/09/07 00:02:20
 tags: ruby
 published: true
 

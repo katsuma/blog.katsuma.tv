@@ -1,6 +1,6 @@
 ---
 title: 関数の引数を存在確認するための高速化Tips
-date: 2007/12/05
+date: 2007/12/05 04:05:22
 tags: javascript
 published: true
 

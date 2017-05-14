@@ -1,6 +1,6 @@
 ---
 title: イベント発生時に無名関数を実行
-date: 2007/04/17
+date: 2007/04/17 03:13:21
 tags: javascript
 published: true
 

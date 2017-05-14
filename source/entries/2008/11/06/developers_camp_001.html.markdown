@@ -1,6 +1,6 @@
 ---
 title: 開発合宿をしてきました
-date: 2008/11/06
+date: 2008/11/06 01:08:35
 tags: develop
 published: true
 

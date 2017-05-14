@@ -1,6 +1,6 @@
 ---
 title: Flash Playerバージョン判定スクリプト
-date: 2009/01/07
+date: 2009/01/07 01:07:06
 tags: javascript
 published: true
 

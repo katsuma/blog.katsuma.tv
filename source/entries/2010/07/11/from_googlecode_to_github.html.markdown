@@ -1,6 +1,6 @@
 ---
 title: Google Codeで管理していたコードをgithubへ移行する
-date: 2010/07/11
+date: 2010/07/11 04:37:18
 tags: develop
 published: true
 

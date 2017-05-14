@@ -1,6 +1,6 @@
 ---
 title: meeting24.tvがTechCrunchに掲載されました
-date: 2009/04/04
+date: 2009/04/04 03:24:50
 tags: ''
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: Paypal「PDT」「IPN」を使った決済とバックエンドの統合(2)
-date: 2007/06/19
+date: 2007/06/19 15:01:29
 tags: paypal
 published: true
 

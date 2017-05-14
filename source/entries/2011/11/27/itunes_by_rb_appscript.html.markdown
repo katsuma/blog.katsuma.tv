@@ -1,6 +1,6 @@
 ---
 title: rb-appscriptを利用してwavデータを自動的にiTunesにタグ情報付きでエンコード、ライブラリに追加
-date: 2011/11/27
+date: 2011/11/27 00:17:22
 tags: ruby
 published: true
 

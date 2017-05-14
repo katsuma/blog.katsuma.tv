@@ -1,6 +1,6 @@
 ---
 title: 退職のご報告
-date: 2009/05/01
+date: 2009/05/01 00:00:00
 tags: diary
 published: true
 

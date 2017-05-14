@@ -1,6 +1,6 @@
 ---
 title: Joostを試してみました
-date: 2007/03/08
+date: 2007/03/08 01:58:55
 tags: p2p
 published: true
 

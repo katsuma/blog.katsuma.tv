@@ -1,6 +1,6 @@
 ---
 title: MT3.3からMT5.2にアップデートしました
-date: 2012/11/24
+date: 2012/11/24 12:30:25
 tags: ''
 published: true
 

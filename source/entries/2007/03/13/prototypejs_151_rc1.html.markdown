@@ -1,6 +1,6 @@
 ---
 title: Prototype.js 1.5.1 rc1リリース
-date: 2007/03/13
+date: 2007/03/13 11:07:26
 tags: javascript
 published: true
 

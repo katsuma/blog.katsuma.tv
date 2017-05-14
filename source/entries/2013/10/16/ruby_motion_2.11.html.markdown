@@ -1,6 +1,6 @@
 ---
 title: RubyMotion2.11がリリースされてspecの中でcontextが利用できるようになりました
-date: 2013/10/16
+date: 2013/10/16 22:26:24
 tags: ruby
 published: true
 

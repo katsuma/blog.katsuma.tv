@@ -1,6 +1,6 @@
 ---
 title: 各エントリーにソーシャルブックマーク数を表示
-date: 2007/07/09
+date: 2007/07/09 00:00:57
 tags: web20
 published: true
 

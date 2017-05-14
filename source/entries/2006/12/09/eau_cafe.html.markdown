@@ -1,6 +1,6 @@
 ---
 title: eau cafeが落ち着きすぎる
-date: 2006/12/09
+date: 2006/12/09 22:34:05
 tags: diary
 published: true
 

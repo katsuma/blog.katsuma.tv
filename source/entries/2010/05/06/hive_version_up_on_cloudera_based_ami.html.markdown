@@ -1,6 +1,6 @@
 ---
 title: ClouderaベースのAMIのHiveのバージョンを上げる方法
-date: 2010/05/06
+date: 2010/05/06 03:00:00
 tags: aws
 published: true
 

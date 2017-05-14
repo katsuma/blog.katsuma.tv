@@ -1,6 +1,6 @@
 ---
 title: CakePHPでランダムにレコードを取得する独自findメソッド
-date: 2008/06/27
+date: 2008/06/27 01:07:03
 tags: php
 published: true
 

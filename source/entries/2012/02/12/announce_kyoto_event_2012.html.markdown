@@ -1,6 +1,6 @@
 ---
 title: 京都で企業説明会とイベントを開催します
-date: 2012/02/12
+date: 2012/02/12 23:54:26
 tags: diary
 published: true
 

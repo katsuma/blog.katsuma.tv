@@ -1,6 +1,6 @@
 ---
 title: del.icio.usからアク禁されました
-date: 2007/06/24
+date: 2007/06/24 21:32:33
 tags: javascript
 published: true
 

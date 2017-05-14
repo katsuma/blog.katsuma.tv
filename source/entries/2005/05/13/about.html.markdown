@@ -1,6 +1,6 @@
 ---
 title: プロフィール
-date: 2005/05/13
+date: 2005/05/13 00:00:00
 tags: diary
 published: true
 

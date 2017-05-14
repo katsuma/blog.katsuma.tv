@@ -1,6 +1,6 @@
 ---
 title: Wiiリモコンの音が鳴りにくいとき
-date: 2007/05/02
+date: 2007/05/02 01:49:21
 tags: wii
 published: true
 

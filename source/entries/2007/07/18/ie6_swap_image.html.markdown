@@ -1,6 +1,6 @@
 ---
 title: IE6でスワップした画像が描画されない
-date: 2007/07/18
+date: 2007/07/18 02:27:29
 tags: javascript
 published: true
 

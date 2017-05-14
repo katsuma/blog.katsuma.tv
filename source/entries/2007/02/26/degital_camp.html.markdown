@@ -1,6 +1,6 @@
 ---
 title: ハマクリ・イブニングに出席してきました
-date: 2007/02/26
+date: 2007/02/26 23:40:45
 tags: diary
 published: true
 

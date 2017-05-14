@@ -1,6 +1,6 @@
 ---
 title: JavaScriptの定数宣言は高速化につながるか？
-date: 2007/10/30
+date: 2007/10/30 01:02:48
 tags: javascript
 published: true
 

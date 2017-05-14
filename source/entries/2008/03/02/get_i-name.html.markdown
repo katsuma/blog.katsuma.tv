@@ -1,6 +1,6 @@
 ---
 title: i-nameを取得しました
-date: 2008/03/02
+date: 2008/03/02 20:26:09
 tags: openid
 published: true
 

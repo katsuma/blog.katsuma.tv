@@ -1,6 +1,6 @@
 ---
 title: Wiiの無線LANが接続できないときはステルス機能をOFFにする
-date: 2007/04/29
+date: 2007/04/29 02:26:53
 tags: wii
 published: true
 

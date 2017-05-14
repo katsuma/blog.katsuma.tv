@@ -1,6 +1,6 @@
 ---
 title: meeting24.tvをリリースしました
-date: 2008/11/14
+date: 2008/11/14 10:57:48
 tags: diary
 published: true
 

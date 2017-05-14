@@ -1,6 +1,6 @@
 ---
 title: Hadoop Streamingを利用してJavaScriptでMap Reduce
-date: 2009/08/02
+date: 2009/08/02 00:38:41
 tags: javascript, java
 published: true
 

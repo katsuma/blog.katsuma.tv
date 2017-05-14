@@ -1,6 +1,6 @@
 ---
 title: JSONPのTwitterAPIを試してみました
-date: 2007/04/23
+date: 2007/04/23 01:46:57
 tags: javascript
 published: true
 

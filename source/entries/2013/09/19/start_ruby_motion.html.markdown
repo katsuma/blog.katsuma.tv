@@ -1,6 +1,6 @@
 ---
 title: RubyMotionはじめました
-date: 2013/09/19
+date: 2013/09/19 01:08:18
 tags: ruby
 published: true
 

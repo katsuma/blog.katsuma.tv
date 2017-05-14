@@ -1,6 +1,6 @@
 ---
 title: 変数の存在を確認する方法と速度比較（その２）
-date: 2007/12/11
+date: 2007/12/11 23:40:17
 tags: javascript
 published: true
 

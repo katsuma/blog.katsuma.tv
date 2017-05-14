@@ -1,6 +1,6 @@
 ---
 title: '恵比寿ITエンジニア会Z #01に参加してきました'
-date: 2008/01/12
+date: 2008/01/12 08:57:36
 tags: diary
 published: true
 

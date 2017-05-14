@@ -1,6 +1,6 @@
 ---
 title: musical 1.0.0をリリースしました
-date: 2013/09/08
+date: 2013/09/08 19:37:59
 tags: ruby
 published: true
 

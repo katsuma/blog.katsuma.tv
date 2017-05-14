@@ -1,6 +1,6 @@
 ---
 title: YSlow対策でmod_deflateを利用してHTTPレスポンスをgzip圧縮
-date: 2007/07/30
+date: 2007/07/30 23:56:16
 tags: apache
 published: true
 

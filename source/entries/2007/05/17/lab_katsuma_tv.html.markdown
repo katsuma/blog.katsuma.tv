@@ -1,6 +1,6 @@
 ---
 title: lab.katsuma.tv
-date: 2007/05/17
+date: 2007/05/17 02:12:06
 tags: develop
 published: true
 

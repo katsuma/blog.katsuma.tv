@@ -1,6 +1,6 @@
 ---
 title: "「すべての人に知っておいてほしい JavaScriptの基本原則」を執筆しました"
-date: 2013/01/22
+date: 2013/01/22 00:20:38
 tags: book
 published: true
 

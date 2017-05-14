@@ -1,6 +1,6 @@
 ---
 title: iTunesのプレイリストのトラック情報を整形してクリップボードに保存する
-date: 2014/11/01
+date: 2014/11/01 19:39:08
 tags: applescript
 published: true
 

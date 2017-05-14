@@ -1,6 +1,6 @@
 ---
 title: "$.deferredを利用したflickrのjqueryプラグイン"
-date: 2011/05/06
+date: 2011/05/06 00:15:31
 tags: javascript
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: CakePHP勉強会に参加してきました
-date: 2008/07/01
+date: 2008/07/01 00:40:57
 tags: php
 published: true
 

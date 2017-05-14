@@ -1,6 +1,6 @@
 ---
 title: オープンソーステクノロジー勉強会に参加してきました
-date: 2008/11/27
+date: 2008/11/27 01:40:58
 tags: diary
 published: true
 

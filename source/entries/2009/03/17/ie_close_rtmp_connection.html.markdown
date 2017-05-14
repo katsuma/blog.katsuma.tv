@@ -1,6 +1,6 @@
 ---
 title: IEのFlashPlayerはページを閉じてもrtmpセッションが切れないことがある
-date: 2009/03/17
+date: 2009/03/17 21:56:11
 tags: actionscript
 published: true
 

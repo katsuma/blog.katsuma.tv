@@ -1,6 +1,6 @@
 ---
 title: ffmpegを利用してDVDのVOBデータをAppleTVに最適なH.264エンコードのHD動画に変換する
-date: 2012/07/30
+date: 2012/07/30 00:55:54
 tags: appletv
 published: true
 

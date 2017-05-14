@@ -1,6 +1,6 @@
 ---
 title: RSSの話をする場合はau one My Pageの現状を知っておくべき
-date: 2008/02/22
+date: 2008/02/22 01:34:36
 tags: diary
 published: true
 

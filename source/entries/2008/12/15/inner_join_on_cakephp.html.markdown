@@ -1,6 +1,6 @@
 ---
 title: CakePHPのアソシエーションでInner Joinを利用してレスポンス速度を向上
-date: 2008/12/15
+date: 2008/12/15 23:56:54
 tags: php
 published: true
 

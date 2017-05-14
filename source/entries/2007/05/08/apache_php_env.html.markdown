@@ -1,6 +1,6 @@
 ---
 title: Apache上でPHPが環境変数を認識できない
-date: 2007/05/08
+date: 2007/05/08 01:50:28
 tags: develop
 published: true
 

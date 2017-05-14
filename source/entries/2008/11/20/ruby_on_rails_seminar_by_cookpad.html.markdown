@@ -1,6 +1,6 @@
 ---
 title: Ruby on Rails セミナーに参加してきました
-date: 2008/11/20
+date: 2008/11/20 22:57:26
 tags: diary
 published: true
 

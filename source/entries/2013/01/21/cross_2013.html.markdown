@@ -1,6 +1,6 @@
 ---
 title: エンジニアサポートCROSS 2013に参加してきました
-date: 2013/01/21
+date: 2013/01/21 00:07:00
 tags: diary
 published: true
 

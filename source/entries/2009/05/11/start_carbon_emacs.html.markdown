@@ -1,6 +1,6 @@
 ---
 title: はじめてのCarbon Emacs
-date: 2009/05/11
+date: 2009/05/11 00:40:19
 tags: develop
 published: true
 

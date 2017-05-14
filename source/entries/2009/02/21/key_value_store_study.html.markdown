@@ -1,6 +1,6 @@
 ---
 title: Key-Value Store勉強会に行ってきました
-date: 2009/02/21
+date: 2009/02/21 02:49:04
 tags: develop
 published: true
 

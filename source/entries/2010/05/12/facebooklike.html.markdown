@@ -1,6 +1,6 @@
 ---
 title: Facebookの「Like」ボタンは「はてなスター」と何が違うのか
-date: 2010/05/12
+date: 2010/05/12 02:53:59
 tags: diary
 published: true
 

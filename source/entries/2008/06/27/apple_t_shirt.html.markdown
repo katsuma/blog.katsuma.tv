@@ -1,6 +1,6 @@
 ---
 title: AppleのTシャツ
-date: 2008/06/27
+date: 2008/06/27 02:33:16
 tags: diary
 published: true
 

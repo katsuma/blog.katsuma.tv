@@ -1,6 +1,6 @@
 ---
 title: Ruby2.0 + Rails4 なアプリを作成する
-date: 2013/01/01
+date: 2013/01/01 02:33:41
 tags: ruby
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: Tokyo-JoggingがMacFanで紹介されました。
-date: 2008/10/29
+date: 2008/10/29 20:44:31
 tags: ''
 published: true
 

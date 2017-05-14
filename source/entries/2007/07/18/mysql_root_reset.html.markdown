@@ -1,6 +1,6 @@
 ---
 title: MySQLでrootを削除したときの対処法
-date: 2007/07/18
+date: 2007/07/18 00:05:09
 tags: mysql
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: MacOSXでTamarinをビルド
-date: 2008/04/04
+date: 2008/04/04 03:08:26
 tags: javascript
 published: true
 

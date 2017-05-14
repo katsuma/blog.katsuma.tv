@@ -1,6 +1,6 @@
 ---
 title: Wowza Media Serverの使い方（入門編）
-date: 2008/02/13
+date: 2008/02/13 02:58:47
 tags: actionscript
 published: true
 

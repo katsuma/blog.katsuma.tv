@@ -1,6 +1,6 @@
 ---
 title: CakePHPを1.1から1.2へ上げるときの注意点
-date: 2008/06/17
+date: 2008/06/17 02:17:46
 tags: php
 published: true
 

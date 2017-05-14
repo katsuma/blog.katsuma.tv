@@ -1,6 +1,6 @@
 ---
 title: 京都でクラウドの取り組みについて発表してきました
-date: 2010/05/02
+date: 2010/05/02 02:39:29
 tags: aws
 published: true
 

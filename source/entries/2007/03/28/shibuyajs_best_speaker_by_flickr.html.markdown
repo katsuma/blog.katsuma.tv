@@ -1,6 +1,6 @@
 ---
 title: 'Shibuya.js Technical Talk #3のベストスピーカーをFlickrのViewsで測定する'
-date: 2007/03/28
+date: 2007/03/28 03:05:39
 tags: javascript
 published: true
 

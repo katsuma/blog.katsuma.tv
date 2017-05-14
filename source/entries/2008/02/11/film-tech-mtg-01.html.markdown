@@ -1,6 +1,6 @@
 ---
 title: 身内勉強会でECMAScriptについてしゃべってきました
-date: 2008/02/11
+date: 2008/02/11 21:16:27
 tags: develop
 published: true
 

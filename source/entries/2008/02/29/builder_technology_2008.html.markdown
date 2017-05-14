@@ -1,6 +1,6 @@
 ---
 title: builder technology に参加してきました
-date: 2008/02/29
+date: 2008/02/29 00:36:20
 tags: develop
 published: true
 

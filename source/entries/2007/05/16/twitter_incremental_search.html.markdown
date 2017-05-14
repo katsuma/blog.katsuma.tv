@@ -1,6 +1,6 @@
 ---
 title: Twitter Incremental Search
-date: 2007/05/16
+date: 2007/05/16 02:31:35
 tags: javascript
 published: true
 

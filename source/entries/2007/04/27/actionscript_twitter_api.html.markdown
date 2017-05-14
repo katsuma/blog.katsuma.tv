@@ -1,6 +1,6 @@
 ---
 title: ActionScriptのTwitterAPIが全く使えない件について
-date: 2007/04/27
+date: 2007/04/27 00:52:28
 tags: web20
 published: true
 

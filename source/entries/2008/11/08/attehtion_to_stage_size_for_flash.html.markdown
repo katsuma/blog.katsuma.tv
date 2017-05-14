@@ -1,6 +1,6 @@
 ---
 title: "「FlashのCamera・Microphoneクラスを使うときの注意点」の注意点"
-date: 2008/11/08
+date: 2008/11/08 10:40:03
 tags: actionscript
 published: true
 

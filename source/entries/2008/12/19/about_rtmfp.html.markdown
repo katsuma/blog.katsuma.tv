@@ -1,6 +1,6 @@
 ---
 title: Flash Player上でP2P通信ができるRTMFPについて
-date: 2008/12/19
+date: 2008/12/19 03:31:00
 tags: p2p, actionscript
 published: true
 

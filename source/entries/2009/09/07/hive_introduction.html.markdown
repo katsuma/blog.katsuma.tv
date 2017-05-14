@@ -1,6 +1,6 @@
 ---
 title: SQL感覚でMap Reduce処理できるHiveについて
-date: 2009/09/07
+date: 2009/09/07 00:44:59
 tags: hadoop
 published: true
 

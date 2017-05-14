@@ -1,6 +1,6 @@
 ---
 title: JSONPを定期実行する
-date: 2007/03/27
+date: 2007/03/27 02:06:17
 tags: javascript
 published: true
 

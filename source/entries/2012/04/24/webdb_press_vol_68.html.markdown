@@ -1,6 +1,6 @@
 ---
 title: WEB+DB PRESS vol.68に寄稿しました
-date: 2012/04/24
+date: 2012/04/24 01:41:08
 tags: book
 published: true
 

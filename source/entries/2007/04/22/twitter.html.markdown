@@ -1,6 +1,6 @@
 ---
 title: Twitterはじめました
-date: 2007/04/22
+date: 2007/04/22 23:23:30
 tags: web20
 published: true
 

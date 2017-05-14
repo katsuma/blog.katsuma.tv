@@ -1,6 +1,6 @@
 ---
 title: Yahoo!ブックマークのブックマーク数を取得するAPI
-date: 2008/03/18
+date: 2008/03/18 15:57:16
 tags: web20
 published: true
 

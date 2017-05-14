@@ -1,6 +1,6 @@
 ---
 title: Mac OSXでライブDVDをmp3ファイルに変換
-date: 2009/01/23
+date: 2009/01/23 06:57:21
 tags: osx
 published: true
 

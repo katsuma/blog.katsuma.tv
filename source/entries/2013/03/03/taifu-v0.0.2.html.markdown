@@ -1,6 +1,6 @@
 ---
 title: taifu-0.0.2.gemをリリースしました
-date: 2013/03/03
+date: 2013/03/03 13:54:06
 tags: ruby
 published: true
 

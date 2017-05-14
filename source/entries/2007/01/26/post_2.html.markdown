@@ -1,6 +1,6 @@
 ---
 title: 広告の仕事
-date: 2007/01/26
+date: 2007/01/26 02:51:53
 tags: design
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: MacRubyとLLVMを導入してRubyでネイティブGUIアプリを作る
-date: 2011/01/23
+date: 2011/01/23 17:16:08
 tags: ruby
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: "「サムライ7」の配信をUG Liveで行います"
-date: 2008/11/14
+date: 2008/11/14 10:38:40
 tags: p2p
 published: true
 

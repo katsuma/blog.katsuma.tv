@@ -1,6 +1,6 @@
 ---
 title: Rimo と DARAO が YouTube からアクセス拒否
-date: 2007/02/27
+date: 2007/02/27 23:37:18
 tags: web20
 published: true
 

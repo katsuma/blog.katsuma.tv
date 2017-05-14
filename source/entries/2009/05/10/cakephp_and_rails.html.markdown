@@ -1,6 +1,6 @@
 ---
 title: CakePHPとRuby on Railsの違い
-date: 2009/05/10
+date: 2009/05/10 03:48:34
 tags: php, ruby
 published: true
 

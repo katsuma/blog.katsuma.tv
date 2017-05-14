@@ -1,6 +1,6 @@
 ---
 title: FlashPlayer9のガベージコレクタのメモリ解放の考察
-date: 2008/03/29
+date: 2008/03/29 14:35:06
 tags: actionscript
 published: true
 

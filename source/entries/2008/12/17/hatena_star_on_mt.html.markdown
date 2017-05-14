@@ -1,6 +1,6 @@
 ---
 title: はてなスターを付けてみました
-date: 2008/12/17
+date: 2008/12/17 02:35:54
 tags: diary
 published: true
 

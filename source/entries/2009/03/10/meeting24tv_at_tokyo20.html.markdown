@@ -1,6 +1,6 @@
 ---
 title: Tokyo 2.0でmeeting24.tvを発表してきました
-date: 2009/03/10
+date: 2009/03/10 02:10:53
 tags: develop
 published: true
 

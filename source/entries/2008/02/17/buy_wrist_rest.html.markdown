@@ -1,6 +1,6 @@
 ---
 title: 今更ながらリストレストを購入しました
-date: 2008/02/17
+date: 2008/02/17 23:29:51
 tags: diary
 published: true
 

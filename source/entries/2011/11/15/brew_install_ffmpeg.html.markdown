@@ -1,6 +1,6 @@
 ---
 title: 'Homebrewでffmpegインストール時の"ERROR: libmp3lame >= 3.98.3 not found"を回避'
-date: 2011/11/15
+date: 2011/11/15 03:13:20
 tags: osx
 published: true
 

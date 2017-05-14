@@ -1,6 +1,6 @@
 ---
 title: "「ウェブ時代 5つの定理」を読みました"
-date: 2008/03/06
+date: 2008/03/06 03:25:25
 tags: book
 published: true
 

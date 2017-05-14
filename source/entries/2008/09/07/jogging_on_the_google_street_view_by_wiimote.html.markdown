@@ -1,6 +1,6 @@
 ---
 title: Wii fitのジョギングゲームのようにGoogleストリートビュー上をジョギングしよう
-date: 2008/09/07
+date: 2008/09/07 22:46:20
 tags: java
 published: true
 

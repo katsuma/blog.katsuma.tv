@@ -1,6 +1,6 @@
 ---
 title: Twitterともごもごの同時更新
-date: 2007/05/26
+date: 2007/05/26 14:41:04
 tags: javascript
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: Javaで手軽にORマッピング ActiveObjects
-date: 2008/09/23
+date: 2008/09/23 02:44:48
 tags: java
 published: true
 

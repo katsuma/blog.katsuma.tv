@@ -1,6 +1,6 @@
 ---
 title: Flashの新フォーマット「XFL」に注目
-date: 2008/03/09
+date: 2008/03/09 00:23:21
 tags: actionscript
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: TokyuRuby会議06で「Siri and Ruby」のLTをしてきました
-date: 2013/06/30
+date: 2013/06/30 00:16:24
 tags: ''
 published: true
 

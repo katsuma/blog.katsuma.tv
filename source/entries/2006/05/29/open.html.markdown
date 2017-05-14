@@ -1,6 +1,6 @@
 ---
 title: 開局！！
-date: 2006/05/29
+date: 2006/05/29 00:00:00
 tags: diary
 published: true
 

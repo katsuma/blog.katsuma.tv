@@ -1,6 +1,6 @@
 ---
 title: Rubyでブックマークカウンタの修正スクリプト書きました
-date: 2008/12/11
+date: 2008/12/11 01:29:00
 tags: ruby
 published: true
 

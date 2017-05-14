@@ -1,6 +1,6 @@
 ---
 title: Xcodeのプロジェクトテンプレートファイルをカスタマイズする
-date: 2011/01/16
+date: 2011/01/16 04:40:14
 tags: xcode
 published: true
 

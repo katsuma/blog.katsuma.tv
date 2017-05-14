@@ -1,6 +1,6 @@
 ---
 title: サーバからの通知方法にfaviconの動的変更を利用する
-date: 2008/03/23
+date: 2008/03/23 01:27:46
 tags: javascript
 published: true
 

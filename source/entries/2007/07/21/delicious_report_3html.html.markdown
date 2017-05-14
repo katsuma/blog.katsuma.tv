@@ -1,6 +1,6 @@
 ---
 title: del.icio.usのh-index値を出力
-date: 2007/07/21
+date: 2007/07/21 04:32:22
 tags: javascript
 published: true
 

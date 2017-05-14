@@ -1,6 +1,6 @@
 ---
 title: rubygemからインストールできるtomdocは古い
-date: 2013/06/16
+date: 2013/06/16 00:09:30
 tags: ruby
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: MecabとLingua::JA::Summarizeで文章のキーワード抽出をCakePHPで
-date: 2008/11/12
+date: 2008/11/12 23:50:12
 tags: php
 published: true
 

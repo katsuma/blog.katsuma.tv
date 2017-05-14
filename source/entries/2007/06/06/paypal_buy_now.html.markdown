@@ -1,6 +1,6 @@
 ---
 title: Paypalを使った「今すぐ購入」ボタンの作り方
-date: 2007/06/06
+date: 2007/06/06 00:03:27
 tags: paypal
 published: true
 

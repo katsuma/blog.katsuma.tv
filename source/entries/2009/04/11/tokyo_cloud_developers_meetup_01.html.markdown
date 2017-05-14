@@ -1,6 +1,6 @@
 ---
 title: Tokyo Cloud Developers Meetupに行ってきました
-date: 2009/04/11
+date: 2009/04/11 08:10:09
 tags: diary
 published: true
 

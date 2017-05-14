@@ -1,6 +1,6 @@
 ---
 title: coLinuxでブリッジ接続するときにハマらない手順
-date: 2007/09/26
+date: 2007/09/26 03:34:44
 tags: develop
 published: true
 

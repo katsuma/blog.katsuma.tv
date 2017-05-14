@@ -1,6 +1,6 @@
 ---
 title: クロスブラウザ対応したAutopagerizeもどきの実装
-date: 2007/10/20
+date: 2007/10/20 12:30:01
 tags: javascript
 published: true
 

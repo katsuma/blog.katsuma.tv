@@ -1,6 +1,6 @@
 ---
 title: Mac OSXにredisをインストール
-date: 2010/03/22
+date: 2010/03/22 02:43:04
 tags: kvs, ruby
 published: true
 

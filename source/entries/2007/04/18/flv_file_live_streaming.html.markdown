@@ -1,6 +1,6 @@
 ---
 title: FLVファイルの擬似ライブストリーミング
-date: 2007/04/18
+date: 2007/04/18 00:19:24
 tags: actionscript
 published: true
 

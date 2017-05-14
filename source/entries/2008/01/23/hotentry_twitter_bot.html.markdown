@@ -1,6 +1,6 @@
 ---
 title: はてブの最近の人気エントリーのTwitter用botを作ってみました
-date: 2008/01/23
+date: 2008/01/23 20:39:05
 tags: perl
 published: true
 

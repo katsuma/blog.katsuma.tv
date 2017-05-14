@@ -1,6 +1,6 @@
 ---
 title: FirefoxでVLCを利用する
-date: 2007/10/16
+date: 2007/10/16 00:20:08
 tags: javascript
 published: true
 

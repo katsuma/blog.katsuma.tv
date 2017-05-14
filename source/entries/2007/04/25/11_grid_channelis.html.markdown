@@ -1,6 +1,6 @@
 ---
 title: "「1人1チャンネル」 - Gridによる配信サイト「Channel.is」をオープン"
-date: 2007/04/25
+date: 2007/04/25 22:14:35
 tags: web20
 published: true
 

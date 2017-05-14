@@ -1,6 +1,6 @@
 ---
 title: Twitterダウン中
-date: 2007/05/23
+date: 2007/05/23 15:51:56
 tags: diary
 published: true
 

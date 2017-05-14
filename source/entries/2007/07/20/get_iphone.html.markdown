@@ -1,6 +1,6 @@
 ---
 title: iPhoneをいじってみました
-date: 2007/07/20
+date: 2007/07/20 01:59:33
 tags: diary
 published: true
 

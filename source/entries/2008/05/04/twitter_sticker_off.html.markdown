@@ -1,6 +1,6 @@
 ---
 title: Twitterシールオフに参加してきました
-date: 2008/05/04
+date: 2008/05/04 22:44:12
 tags: diary
 published: true
 

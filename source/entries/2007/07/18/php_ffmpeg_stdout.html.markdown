@@ -1,6 +1,6 @@
 ---
 title: PHPでffmpegの出力を格納する
-date: 2007/07/18
+date: 2007/07/18 01:52:53
 tags: php
 published: true
 

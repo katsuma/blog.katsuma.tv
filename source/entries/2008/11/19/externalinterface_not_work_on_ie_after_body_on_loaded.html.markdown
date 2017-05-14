@@ -1,6 +1,6 @@
 ---
 title: ExternalInterfaceでは対象swfをonLoad以降にロードしてはダメ
-date: 2008/11/19
+date: 2008/11/19 20:57:28
 tags: actionscript
 published: true
 

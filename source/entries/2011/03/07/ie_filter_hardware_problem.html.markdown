@@ -1,6 +1,6 @@
 ---
 title: ハードウェアが特定の条件下ではIEでfilter:alpha(opacity=N)が適用されない
-date: 2011/03/07
+date: 2011/03/07 01:10:17
 tags: css
 published: true
 

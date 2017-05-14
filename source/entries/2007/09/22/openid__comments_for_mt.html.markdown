@@ -1,6 +1,6 @@
 ---
 title: OpenID Comments for MTを導入しました
-date: 2007/09/22
+date: 2007/09/22 14:08:44
 tags: develop
 published: true
 

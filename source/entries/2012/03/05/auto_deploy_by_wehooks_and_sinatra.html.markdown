@@ -1,6 +1,6 @@
 ---
 title: githubにPushしたらwebhooksとSinatraを利用してサイトを自動的に更新する
-date: 2012/03/05
+date: 2012/03/05 02:28:18
 tags: ruby
 published: true
 

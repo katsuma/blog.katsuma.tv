@@ -1,6 +1,6 @@
 ---
 title: MinibufferがGoogleDocsで干渉する場合がある？
-date: 2007/12/09
+date: 2007/12/09 01:30:14
 tags: javascript
 published: true
 

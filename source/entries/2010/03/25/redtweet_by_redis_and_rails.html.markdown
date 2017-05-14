@@ -1,6 +1,6 @@
 ---
 title: redisとRailsでTwitterクローン「RedTweet」を作りました
-date: 2010/03/25
+date: 2010/03/25 02:04:56
 tags: ruby, kvs
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: さくらインターネットでrvm+Ruby1.9.3環境下でSinatraをCGIで動かす
-date: 2012/02/26
+date: 2012/02/26 02:36:25
 tags: ruby
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: ActionScript3だけでSliderを作る
-date: 2008/03/14
+date: 2008/03/14 02:18:08
 tags: actionscript
 published: true
 

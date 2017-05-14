@@ -1,6 +1,6 @@
 ---
 title: またまた再開
-date: 2006/12/09
+date: 2006/12/09 19:02:17
 tags: diary
 published: true
 

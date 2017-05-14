@@ -1,6 +1,6 @@
 ---
 title: そろそろShibuya.asについて語っておこうか
-date: 2008/06/17
+date: 2008/06/17 00:41:02
 tags: actionscript
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: "「RESTful Webサービス」を読み終えて"
-date: 2008/01/24
+date: 2008/01/24 00:39:01
 tags: book
 published: true
 

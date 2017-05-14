@@ -1,6 +1,6 @@
 ---
 title: 国立新美術館に行ってきました
-date: 2007/01/31
+date: 2007/01/31 03:12:55
 tags: design
 published: true
 

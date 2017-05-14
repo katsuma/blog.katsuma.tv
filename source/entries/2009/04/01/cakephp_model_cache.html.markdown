@@ -1,6 +1,6 @@
 ---
 title: CakePHPでモデルキャッシュを利用する
-date: 2009/04/01
+date: 2009/04/01 00:32:02
 tags: php
 published: true
 

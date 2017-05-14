@@ -1,6 +1,6 @@
 ---
 title: 楽天テクノロジーでLT&デモをしてきました
-date: 2009/11/08
+date: 2009/11/08 05:37:59
 tags: develop
 published: true
 

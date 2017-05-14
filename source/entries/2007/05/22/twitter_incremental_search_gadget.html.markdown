@@ -1,6 +1,6 @@
 ---
 title: TwitteAPIでひとことガジェット + Incremental Search
-date: 2007/05/22
+date: 2007/05/22 03:53:50
 tags: gadgets
 published: true
 

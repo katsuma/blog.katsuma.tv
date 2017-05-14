@@ -1,6 +1,6 @@
 ---
 title: AppleScriptを利用してiTunesにファイルを追加、再生、削除する
-date: 2012/07/09
+date: 2012/07/09 23:21:27
 tags: applescript
 published: true
 

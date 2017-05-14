@@ -1,6 +1,6 @@
 ---
 title: 3G携帯の動画を扱うためのffmpegのビルド方法
-date: 2007/09/03
+date: 2007/09/03 23:49:00
 tags: linux
 published: true
 

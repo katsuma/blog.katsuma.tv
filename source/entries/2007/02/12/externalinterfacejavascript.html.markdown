@@ -1,6 +1,6 @@
 ---
 title: ExternalInterfaceを使ったFlashの呼び出し元制御
-date: 2007/02/12
+date: 2007/02/12 23:40:45
 tags: actionscript, javascript
 published: true
 

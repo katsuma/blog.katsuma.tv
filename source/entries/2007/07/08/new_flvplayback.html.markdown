@@ -1,6 +1,6 @@
 ---
 title: FLVPlaybackで「.flv」以外のファイルを有効にする
-date: 2007/07/08
+date: 2007/07/08 00:48:54
 tags: actionscript
 published: true
 

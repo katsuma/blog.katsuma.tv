@@ -1,6 +1,6 @@
 ---
 title: エディタのフォントをメイリオにしてみた
-date: 2007/03/20
+date: 2007/03/20 20:18:36
 tags: develop
 published: true
 

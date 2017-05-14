@@ -1,6 +1,6 @@
 ---
 title: " ActionScript3だけで作るUIコンポーネント"
-date: 2008/03/17
+date: 2008/03/17 01:12:53
 tags: actionscript
 published: true
 

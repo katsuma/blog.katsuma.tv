@@ -1,6 +1,6 @@
 ---
 title: Tokyo-Joggingの実行方法のチュートリアルビデオ
-date: 2008/10/01
+date: 2008/10/01 09:52:11
 tags: java
 published: true
 

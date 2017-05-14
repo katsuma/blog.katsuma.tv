@@ -1,6 +1,6 @@
 ---
 title: サーバサイドでOS・ブラウザ判定
-date: 2007/12/13
+date: 2007/12/13 02:03:05
 tags: php
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: ActionScriptで使うlog関数のエラー対策
-date: 2008/01/31
+date: 2008/01/31 19:43:20
 tags: actionscript
 published: true
 

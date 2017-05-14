@@ -1,6 +1,6 @@
 ---
 title: あなたの音感は何点？-ケータイ鼻歌音感ゲーム「はなワザ」
-date: 2007/09/14
+date: 2007/09/14 02:28:37
 tags: develop
 published: true
 

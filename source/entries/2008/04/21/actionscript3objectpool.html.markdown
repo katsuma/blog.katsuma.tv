@@ -1,6 +1,6 @@
 ---
 title: ActionScript3でObjectPool
-date: 2008/04/21
+date: 2008/04/21 21:29:49
 tags: actionscript
 published: true
 

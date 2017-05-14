@@ -1,6 +1,6 @@
 ---
 title: SpiderMonkeyのインストール
-date: 2007/12/09
+date: 2007/12/09 03:19:23
 tags: javascript
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: ART-Meterにお邪魔してきました
-date: 2007/05/16
+date: 2007/05/16 00:20:59
 tags: diary
 published: true
 

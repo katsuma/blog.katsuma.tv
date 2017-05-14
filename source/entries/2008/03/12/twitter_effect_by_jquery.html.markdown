@@ -1,6 +1,6 @@
 ---
 title: jQueryでTwitterぽいエフェクトをかける
-date: 2008/03/12
+date: 2008/03/12 18:40:21
 tags: javascript
 published: true
 

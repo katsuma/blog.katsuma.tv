@@ -1,6 +1,6 @@
 ---
 title: CakePHPでBasic認証対応ページを作る
-date: 2008/07/30
+date: 2008/07/30 18:29:33
 tags: php
 published: true
 

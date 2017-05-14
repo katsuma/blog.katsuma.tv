@@ -1,6 +1,6 @@
 ---
 title: Google Developer Seminor
-date: 2006/12/11
+date: 2006/12/11 22:22:25
 tags: develop
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: OSS/FSはAJAXアプリケーションに食われていく？
-date: 2007/01/06
+date: 2007/01/06 00:32:11
 tags: web20
 published: true
 

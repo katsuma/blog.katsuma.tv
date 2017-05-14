@@ -1,6 +1,6 @@
 ---
 title: AJAX時代のFlash
-date: 2007/01/08
+date: 2007/01/08 04:48:15
 tags: web20
 published: true
 

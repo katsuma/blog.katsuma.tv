@@ -1,6 +1,6 @@
 ---
 title: Flash Player 9,0,115,0 だとRed5 0.6.3 でSharedObjectが扱えない
-date: 2008/02/05
+date: 2008/02/05 02:34:46
 tags: java
 published: true
 

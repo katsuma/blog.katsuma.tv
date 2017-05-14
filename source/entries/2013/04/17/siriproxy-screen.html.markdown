@@ -1,6 +1,6 @@
 ---
 title: Siriでスクリーンセーバー操作を行うSiriProxy-Screen
-date: 2013/04/17
+date: 2013/04/17 02:40:34
 tags: ruby
 published: true
 

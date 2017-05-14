@@ -1,6 +1,6 @@
 ---
 title: del.icio.us Report(α版)を作ってみました (2)
-date: 2007/07/06
+date: 2007/07/06 02:56:44
 tags: javascript
 published: true
 

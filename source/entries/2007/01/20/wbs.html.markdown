@@ -1,6 +1,6 @@
 ---
 title: WBSに取り上げられました
-date: 2007/01/20
+date: 2007/01/20 18:08:28
 tags: diary
 published: true
 

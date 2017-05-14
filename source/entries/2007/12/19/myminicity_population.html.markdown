@@ -1,6 +1,6 @@
 ---
 title: MyMiniCityでPopulationを増やす(ことができるかもしれない)方法
-date: 2007/12/19
+date: 2007/12/19 18:06:47
 tags: web20
 published: true
 

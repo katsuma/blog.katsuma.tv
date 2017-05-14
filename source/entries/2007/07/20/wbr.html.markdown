@@ -1,6 +1,6 @@
 ---
 title: URLのような長い半角英数文字でレイアウトが崩れるのを防ぐ
-date: 2007/07/20
+date: 2007/07/20 02:32:26
 tags: php
 published: true
 

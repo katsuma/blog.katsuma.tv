@@ -1,6 +1,6 @@
 ---
 title: PHP+Smartyで3G携帯サイトを効率的に構築する
-date: 2007/08/13
+date: 2007/08/13 23:47:50
 tags: php
 published: true
 

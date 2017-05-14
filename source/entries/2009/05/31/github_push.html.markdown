@@ -1,6 +1,6 @@
 ---
 title: githubで新しい環境から自分のレポジトリにpush
-date: 2009/05/31
+date: 2009/05/31 13:49:16
 tags: develop
 published: true
 

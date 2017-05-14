@@ -1,6 +1,6 @@
 ---
 title: Mac OSXで初めてのRubyを始めてみました
-date: 2008/11/10
+date: 2008/11/10 19:34:54
 tags: ruby
 published: true
 

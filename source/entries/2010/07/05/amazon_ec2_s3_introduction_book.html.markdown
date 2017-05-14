@@ -1,6 +1,6 @@
 ---
 title: "「よくわかるAmazonEC2/S3入門」を献本いただきました"
-date: 2010/07/05
+date: 2010/07/05 02:55:29
 tags: aws
 published: true
 

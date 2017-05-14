@@ -1,6 +1,6 @@
 ---
 title: KeynoteをRubyから操作するkeynote-clientを作りました
-date: 2015/08/10
+date: 2015/08/10 00:57:42
 tags: ruby
 published: true
 

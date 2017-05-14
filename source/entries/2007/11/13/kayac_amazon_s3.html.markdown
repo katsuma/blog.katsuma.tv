@@ -1,6 +1,6 @@
 ---
 title: kayac新オフィス紹介ページでAmazon S3が利用されている
-date: 2007/11/13
+date: 2007/11/13 01:53:52
 tags: web20
 published: true
 

@@ -1,6 +1,6 @@
 ---
 title: ネット上で話題になっている番組に自動的にTVのチャンネルを変えるpop-zap
-date: 2012/06/13
+date: 2012/06/13 02:57:09
 tags: ruby
 published: true
 

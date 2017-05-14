@@ -1,6 +1,6 @@
 ---
 title: CakePHPで国際化対応するときは検索エンジンのクローラに気を付ける
-date: 2008/12/18
+date: 2008/12/18 01:10:32
 tags: php
 published: true
 

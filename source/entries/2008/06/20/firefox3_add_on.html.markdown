@@ -1,6 +1,6 @@
 ---
 title: Firefox3にしてプラグインが動かなくなった！と嘆いている人たちへ
-date: 2008/06/20
+date: 2008/06/20 17:48:08
 tags: diary
 published: true
 

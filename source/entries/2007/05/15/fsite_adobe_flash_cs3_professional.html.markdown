@@ -1,6 +1,6 @@
 ---
 title: "「F-site Adobe Flash CS3 Professional ことはじめ」に参加してきました"
-date: 2007/05/15
+date: 2007/05/15 01:26:21
 tags: actionscript
 published: true
 

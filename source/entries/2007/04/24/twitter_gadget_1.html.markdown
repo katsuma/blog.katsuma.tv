@@ -1,6 +1,6 @@
 ---
 title: TwitterAPIでひとことガジェット
-date: 2007/04/24
+date: 2007/04/24 02:12:11
 tags: gadgets
 published: true
 

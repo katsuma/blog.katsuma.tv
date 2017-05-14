@@ -1,6 +1,6 @@
 ---
 title: iTunes10.6.3からrb-appscriptが利用できない
-date: 2012/06/20
+date: 2012/06/20 02:29:28
 tags: ruby
 published: true
 

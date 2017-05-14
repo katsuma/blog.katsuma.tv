@@ -1,6 +1,6 @@
 ---
 title: 自サイトに iPhone / iPod Touch 用のホームスクリーンアイコンを設定する
-date: 2008/12/31
+date: 2008/12/31 14:28:53
 tags: iphone
 published: true
 

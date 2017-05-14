@@ -1,6 +1,6 @@
 ---
 title: Gmailのビデオチャットで利用しているCodecはH.264（っぽい）
-date: 2008/11/13
+date: 2008/11/13 01:20:14
 tags: develop
 published: true
 
