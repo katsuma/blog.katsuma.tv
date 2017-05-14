@@ -22,25 +22,30 @@
     = stylesheet_link_tag 'bundle'
 
   %body
-    .container.is-fluid
-      = yield
+    %header.nav.section
+      .container
+        .nav-left
+          %h1.title= link_to 'blog.katsuma.tv', '/'
 
-    %aside
-      %h2 Recent Articles
-      %ol
-        - blog.articles[0...10].each do |article|
-          %li
-            = link_to article.title, article
-            %span= article.date.strftime('%b %e')
+    %section.section
+      .container
+        = yield
 
-      %h2 Tags
-      %ol
-        - blog.tags.each do |tag, articles|
-          %li
-            = link_to "#{tag} (#{articles.size})", tag_path(tag)
+    %hr
 
-      %h2 By Year
-      %ol
-        - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-          %li
-            = link_to "#{year} (#{articles.size})", blog_year_path(year)
+    %footer
+      .container
+        .columns
+          .content.column
+            %h2 Recent Articles
+            %ul
+              - blog.articles[0...10].each do |article|
+                %li
+                  = link_to article.title, article
+
+          .content.column
+            %h2 By Year
+            %ul
+              - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+                %li
+                  = link_to "#{year} (#{articles.size})", blog_year_path(year)
