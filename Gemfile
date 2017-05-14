@@ -9,7 +9,7 @@ gem "middleman-sprockets", "~> 4.1.0"
 gem "middleman-minify-html", "~> 3.4.1"
 gem "middleman-livereload", '~> 3.4.6'
 gem "middleman-deploy", '~> 2.0.0.pre.alpha'
-gem "faml", "~> 0.8.1"
+gem "haml", "~> 4.0"
 gem "pry", '~> 0.10.3'
 
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
