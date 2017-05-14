@@ -14,5 +14,7 @@ gem "pry", '~> 0.10.3'
 
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
+gem "image_optim"
+
 # For feed.xml.builder
 gem "builder", "~> 3.0"
