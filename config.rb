@@ -49,3 +49,12 @@ activate :external_pipeline,
   command: build? ? './node_modules/webpack/bin/webpack.js --bail' : './node_modules/webpack/bin/webpack.js --watch -d',
   source: ".tmp/dist",
   latency: 1
+
+activate :deploy do |deploy|
+  deploy.deploy_method = :rsync
+  deploy.host  = 'katsuma.vps'
+  deploy.port  = 65522
+  deploy.path  = '/home/katsuma/www/katsuma.tv/blog/public'
+  deploy.user  = 'katsuma'
+  deploy.flags = '--iconv=UTF-8-MAC,UTF-8 -avz'
+end
