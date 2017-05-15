@@ -7,4 +7,5 @@
       \/
       - current_article.tags.each do |tag|
         = link_to tag, tag_path(tag)
+      = partial 'social_buttons', locals: { title: current_article.title, url: "#{host}#{current_article.url}" }
     = current_article.body

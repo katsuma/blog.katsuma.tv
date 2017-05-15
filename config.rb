@@ -3,6 +3,14 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
+page "/feed.xml", layout: false
+
+helpers do
+  def host
+    "blog.katsuma.tv"
+  end
+end
+
 activate :blog do |blog|
   blog.permalink = "{year}/{month}/{title}.html"
   blog.sources = "entries/{year}/{month}/{day}/{title}.html"
@@ -24,7 +32,6 @@ activate :blog do |blog|
   blog.page_link = "page/{num}"
 end
 
-page "/feed.xml", layout: false
 
 configure :development do
   activate :livereload

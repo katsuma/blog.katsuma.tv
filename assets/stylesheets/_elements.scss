@@ -1,3 +1,13 @@
 article.content:not(:last-child) {
   margin-bottom: 5.5rem;
 }
+
+.socials {
+  .nav-item {
+    padding: 0 0.5rem 0 0;
+  }
+
+  .facebook {
+    margin-top: -4px;
+  }
+}

@@ -1,0 +1,11 @@
+%nav.nav
+  .nav-left.socials
+    .nav-item.facebook
+      .fb-like{ data: { send: 'false', layout: 'button_count', action: 'like', width: '130', href: url }}
+
+    .nav-item.twitter
+      = link_to 'Tweet', 'http://twitter.com/share', class: 'twitter-share-button', data: { count: 'horizontal', via: 'ryo_katsuma', text: title, url: url, counturl: url }
+
+    .nav-item.hatena
+      = link_to "http://b.hatena.ne.jp/entry/#{url}", class: "hatena-bookmark-button", data: { hatena_bookmark_layout: "basic-label-counter", hatena_bookmark_lang: "ja" }, title: "このエントリーをはてなブックマークに追加" do
+        = image_tag "https://b.st-hatena.com/images/entry-button/button-only@2x.png", alt: "このエントリーをはてなブックマークに追加", width: 20, height: 20, style: "border: none;"

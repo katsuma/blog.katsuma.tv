@@ -12,6 +12,8 @@ per_page: 3
       \/
       - article.tags.each do |tag|
         = link_to tag, tag_path(tag)
+      = partial 'social_buttons', locals: { title: article.title, url: "#{host}#{article.url}" }
+
     = article.body
 
 - if paginate
