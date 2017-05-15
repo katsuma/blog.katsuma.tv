@@ -5,20 +5,22 @@
     %meta{ charset: "utf-8" }
     %meta{ content: "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no", name: "viewport" }
     %meta{ content: "blog.katsuma.tv", name: "title" }
-    %meta{ content: "空飛ぶピクニック, フェス, ライブ, イベント, ピクニック", name: "keywords" }
+    %meta{ content: "ryo katsuma, blog, tech, ruby, web, engineer", name: "keywords" }
     %meta{ content: "適当に直感で思ったことを何も考えず発信", name: "description" }
 
     %meta{ property: "og:title", content: "blog.katsuma.tv" }
     %meta{ property: "og:type", content: "article" }
-    %meta{ property: "og:url", content: "https://blog.katsuma.tv" }
-    %meta{ property: "og:image", content: "https://blog.katsuma.tv/images/ogp.png" }
+    %meta{ property: "og:url", content: "http://blog.katsuma.tv" }
+    %meta{ property: "og:image", content: "http://blog.katsuma.tv/images/ogp.png" }
     %meta{ property: "og:site_name", content: "blog.katsuma.tv" }
     %meta{ property: "og:description", content: "適当に直感で思ったことを何も考えず発信" }
     %meta{ property: "fb:app_id", content: "110236365751632" }
 
-    %title blog.katsuma.tv
-    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+    %link{ rel: "shortcut icon", href: "/favicon.ico" }
 
+    %title blog.katsuma.tv
+
+    = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
     = stylesheet_link_tag 'bundle'
 
   %body
