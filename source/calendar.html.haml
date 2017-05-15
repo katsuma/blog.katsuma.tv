@@ -1,4 +1,5 @@
 ---
+per_page: 50
 pageable: true
 ---
 
@@ -6,9 +7,9 @@ pageable: true
   %h2.title
     - case page_type
       - when 'day'
-      - title_header, title_link = Date.new(year, month, day).strftime('%b %e %Y'), blog_day_path(day)
+      - title_header, title_link = Date.new(year, month, day).strftime('%b %e %Y'), blog_day_path(year, month, day)
       - when 'month'
-      - title_header, title_link = Date.new(year, month, 1).strftime('%b %Y'), blog_month_path(month)
+      - title_header, title_link = Date.new(year, month, 1).strftime('%b %Y'), blog_month_path(year, month)
       - when 'year'
       - title_header, title_link = year, blog_year_path(year)
 
