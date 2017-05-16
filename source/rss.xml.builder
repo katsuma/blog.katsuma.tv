@@ -1,6 +1,6 @@
 xml.instruct! :xml, :version => '1.0'
 xml.rss :version => "2.0" do
-  site_url = "http://blog.katsuma.tv/"
+  site_url = "https://blog.katsuma.tv/"
   xml.channel do
     xml.title "blog.katsuma.tv"
     xml.subtitle "適当に直感で思ったことを何も考えず発信"

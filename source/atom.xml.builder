@@ -1,6 +1,6 @@
 xml.instruct!
-xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
-  site_url = "http://blog.katsuma.tv/"
+xml.feed "xmlns" => "https://www.w3.org/2005/Atom" do
+  site_url = "https://blog.katsuma.tv/"
   xml.title "blog.katsuma.tv"
   xml.link "rel" => "alternate", "type" => "text/html", "href" => site_url
   xml.link "rel" => "self", "type" => "application/atom+xml", "href" => "#{site_url}atom.xml"
