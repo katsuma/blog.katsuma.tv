@@ -52,9 +52,9 @@ activate :external_pipeline,
 
 activate :deploy do |deploy|
   deploy.deploy_method = :rsync
-  deploy.host  = 'katsuma.vps'
-  deploy.port  = 65522
-  deploy.path  = '/home/katsuma/www/katsuma.tv/blog/public'
-  deploy.user  = 'katsuma'
-  deploy.flags = '--iconv=UTF-8-MAC,UTF-8 -avz'
+  deploy.host  = ENV['DEPLOY_HOST']
+  deploy.port  = ENV['DEPLOY_PORT'].to_i
+  deploy.path  = ENV['DEPLOY_PATH']
+  deploy.user  = ENV['DEPLOY_USER']
+  deploy.flags = ENV['DEPLOY_FLAGS']
 end

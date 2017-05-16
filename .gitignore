@@ -20,3 +20,6 @@
 
 # Ignore node files
 /node_modules
+
+# Ignore .env
+.env
