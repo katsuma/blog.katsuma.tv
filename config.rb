@@ -11,6 +11,10 @@ helpers do
   def host
     "blog.katsuma.tv"
   end
+
+  def description
+    "適当に直感で思ったことを何も考えず発信"
+  end
 end
 
 activate :blog do |blog|

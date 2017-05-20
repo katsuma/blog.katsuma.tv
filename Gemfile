@@ -15,8 +15,8 @@ gem "haml", "~> 4.0"
 gem "pry", '~> 0.10.3'
 
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
+gem "nokogiri"
 
 gem "image_optim"
-
 # For feed.xml.builder
 gem "builder", "~> 3.0"
