@@ -152,6 +152,7 @@ PLATFORMS
 DEPENDENCIES
   builder (~> 3.0)
   dotenv (~> 2.2.1)
+  fastimage
   haml (~> 4.0)
   image_optim
   middleman (~> 4.1)

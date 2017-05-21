@@ -16,6 +16,7 @@ gem "pry", '~> 0.10.3'
 
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 gem "nokogiri"
+gem "fastimage"
 
 gem "image_optim"
 # For feed.xml.builder

@@ -1,0 +1,44 @@
+!!!
+%html{ amp: '', lang: 'ja' }
+  %head
+    %meta{ charset: 'utf-8' }
+    %meta{ content: "#{article.title} | blog.katsuma.tv", name: "title" }
+    %meta{ content: strip_tags(article.summary).gsub("\n", ""), name: "description" }
+    %meta{ content: "width=device-width,minimum-scale=1,initial-scale=1", name: "viewport" }
+
+    %link{ rel: "canonical", href: "https://#{host}#{article.url}" }
+
+    %noscript
+      %style{ "amp-boilerplate" => "" }
+        body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+
+    %script{ async: "", src: "https://cdn.ampproject.org/v0.js" }
+    %script{ async: "", src: "https://cdn.ampproject.org/v0/amp-ad-0.1.js", "custom-element" => "amp-ad" }
+
+    %style{ "amp-boilerplate" => "" }
+      body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+
+    = stylesheet_link_tag 'bundle'
+
+  %body
+    %header.nav.section
+      .container
+        .nav-left
+          %h1.title= link_to 'blog.katsuma.tv', '/'
+
+    %section.section
+      .container
+
+        %article.content.is-fluid
+          %h2
+            = link_to article.title, article
+          %p.subtitle.is-6
+            = article.date.strftime('%Y.%m.%d')
+            \/
+            - article.tags.each do |tag|
+              = link_to tag, tag_path(tag)
+
+          = article.body
+
+        .content.has-text-centered.adsense
+          %amp-ad{ layout: "responsive", width: 300, height: 250, type: 'adsense', data: { ad_client: "ca-pub-4582773532678917", ad_slot: "7631984734" } }

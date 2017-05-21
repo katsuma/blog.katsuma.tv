@@ -43,7 +43,7 @@ mixiはいまだかつてないほど自分たちの時間を奪うメディア�
 
 たとえばこれは今日時点における僕の近しい人たちのマップ。
 
-<img src="http://blog.katsuma.tv/images/cont/06060101.jpg" border="0">
+<img src="/images/06060101.jpg" border="0">
 
 画像はSVG形式で出力されます。Adobeからプラグインをインストールすればほぼ全てのブラウザで見れるはず。これを見れば「互いに知り合いと判断した人」、「知り合い登録が片方向の人」、
 「互いに研究を行った人」などの情報が瞬時に得られます。また、<a href="http://www.ringolab.com/note/daiya/">Passion For The Future</a>の橋本大也さんとは２ホップでたどれることもすぐに分かります。
