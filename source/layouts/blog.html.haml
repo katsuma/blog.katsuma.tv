@@ -9,6 +9,7 @@
   %meta{ property: "og:url", content: "https://#{host}#{current_article.url}" }
   %meta{ property: "og:image", content: "https://#{host}/images/ogp.png" }
   %meta{ property: "og:description", content: entry_description }
+  %link{ rel: "amphtml", href: "https://#{host}#{current_article.url}.amp" }
 
   %script{ type: "application/ld+json" }
     :ruby
