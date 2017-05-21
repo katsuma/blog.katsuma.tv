@@ -11,37 +11,7 @@
   %meta{ property: "og:description", content: entry_description }
   %link{ rel: "amphtml", href: "https://#{host}#{current_article.url}.amp" }
 
-  %script{ type: "application/ld+json" }
-    :ruby
-      schema_data = {
-        "@context" => "http://schema.org",
-        "@type" => "BlogPosting",
-        "author" => {
-          "@type" => "Person",
-          "name" => "ryo katsuma",
-          "image": "#{host}/images/me.jpg"
-        },
-        "dateCreated" => current_article.date.iso8601,
-        "dateModified" => current_article.date.iso8601,
-        "datePublished" => current_article.date.iso8601,
-        "description" => entry_description,
-        "headline" => entry_title,
-        "mainEntityOfPage" => {
-          "@type" => "WebPage",
-          "@id" => host
-        },
-        "publisher" => {
-          "@type" => "Organization",
-          "name" => "ryo katsuma",
-          "logo" => {
-            "@type" => "ImageObject",
-            "url" => "https://#{host}/images/me.jpg",
-            "height" => 96,
-            "width" => 96
-          }
-        }
-      }
-    = schema_data.to_json.html_safe
+  = partial 'article_schema_data', locals: { article: current_article }
 
 = wrap_layout :layout do
   %article.content.is-fluid

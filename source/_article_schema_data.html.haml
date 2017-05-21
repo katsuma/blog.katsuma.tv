@@ -1,0 +1,34 @@
+%script{ type: "application/ld+json" }
+  :ruby
+    entry_title = "#{article.title} | blog.katsuma.tv"
+    entry_description = strip_tags(article.summary).gsub("\n", "")
+
+    schema_data = {
+      "@context" => "http://schema.org",
+      "@type" => "BlogPosting",
+      "author" => {
+        "@type" => "Person",
+        "name" => "ryo katsuma",
+        "image": "#{host}/images/me.jpg"
+      },
+      "dateCreated" => article.date.iso8601,
+      "dateModified" => article.date.iso8601,
+      "datePublished" => article.date.iso8601,
+      "description" => entry_description,
+      "headline" => entry_title,
+      "mainEntityOfPage" => {
+        "@type" => "WebPage",
+        "@id" => host
+      },
+      "publisher" => {
+        "@type" => "Organization",
+        "name" => "ryo katsuma",
+        "logo" => {
+          "@type" => "ImageObject",
+          "url" => "https://#{host}/images/me.jpg",
+          "height" => 96,
+          "width" => 96
+        }
+      }
+    }
+  = schema_data.to_json.html_safe
