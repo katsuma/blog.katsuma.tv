@@ -1,7 +1,8 @@
 require 'fastimage'
 
 STYLE = File.read("build/stylesheets/bundle.css")
-STYLESHEET_LINK_REGEXP = /<link href=\"([..\/]*?stylesheets\/[\w\-]*\.css)\" rel="?stylesheet"? \/>/
+STYLESHEET_LINK_REGEXP = /<link href="\/stylesheets\/bundle\.css" rel="stylesheet" \/>/
+
 IMG_LINK_REGEXP = /<img\s[^>]*?src\s*=\s*['\"]([^'\"]*?)['\"][^>]*?>/i
 
 Time.zone = "Tokyo"
@@ -12,6 +13,9 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 ignore '/layout_amp.html'
+
+set :markdown_engine, :redcarpet
+set :markdown, fenced_code_blocks: true, smartypants: true
 
 helpers do
   def host
