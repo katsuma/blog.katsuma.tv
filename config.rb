@@ -1,7 +1,7 @@
 require 'fastimage'
 
 STYLE = File.read("build/stylesheets/bundle.css")
-STYLESHEET_LINK_REGEXP = /<link href="\/stylesheets\/bundle\.css" rel="stylesheet" \/>/
+STYLESHEET_LINK_REGEXP = /<link href=\"\/stylesheets\/bundle\.css\" rel="?stylesheet"? \/>/
 
 IMG_LINK_REGEXP = /<img\s[^>]*?src\s*=\s*['\"]([^'\"]*?)['\"][^>]*?>/i
 
