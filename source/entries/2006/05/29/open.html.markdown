@@ -46,7 +46,6 @@ Ajax, Flashなんかを使いつつナウいUIを持った画期的なソフト�
 では、早速開局の喜びを全身で表す感じを。
 
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/ueMKO63ZX_M"></param><embed src="http://www.youtube.com/v/ueMKO63ZX_M" type="application/x-shockwave-flash" width="425" height="350"></embed></object>
-
+<iframe width="640" height="480" src="//www.youtube.com/embed/ueMKO63ZX_M" frameborder="0" allowfullscreen></iframe>
 
 うーん・・・早速ネタ満載になりそうだ。。

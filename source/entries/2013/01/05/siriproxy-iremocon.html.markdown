@@ -17,10 +17,10 @@ SiriProxyのプラグインの形で、Siriで家電を操作できるものを�
 
 とSiriに言う事で、部屋の電気を操作できます。
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/K_0VNat-m8Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/K_0VNat-m8Q" frameborder="0" allowfullscreen></iframe>
 
 (2013.01.14追記)　エアコンのON/OFFの様子も追加しました。
-<iframe width="560" height="315" src="http://www.youtube.com/embed/9zpSUcJMcqg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/9zpSUcJMcqg" frameborder="0" allowfullscreen></iframe>
 
 ### 部屋の電気の操作ってどうやってるの？？
 このブログでは定番になってきましたが、やはり[iRemocon](http://www.amazon.co.jp/gp/product/B0053BXBVG/ref=as_li_ss_il?ie=UTF8&tag=katsumatv-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0053BXBVG)を利用しています。詳しくはこちらをどうぞ。

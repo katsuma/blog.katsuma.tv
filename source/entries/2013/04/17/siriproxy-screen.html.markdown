@@ -17,7 +17,7 @@ published: true
 とSiriに言う事で、スクリーンセーバーを起動することができます。
 これでマウスやキーボードが無いマシンでも安心してスクリーンセーバーを起動して離席することができますね。
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/UKuWkYjmF7M" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/UKuWkYjmF7M" frameborder="0" allowfullscreen></iframe>
 
 ### 作った動機
 社内ブログで「スクリーンをすぐロックするTips」というエントリが上がり、なぜかこのネタに限って他のエンジニアがこぞって「俺ならこうする」みたいなネタを連投する流れに。
@@ -48,5 +48,3 @@ end
 こんな感じで簡単に祭りに参加できるSiriProxyは便利なわけですね〜。
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
