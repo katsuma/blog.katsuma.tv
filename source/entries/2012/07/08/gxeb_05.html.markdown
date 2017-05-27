@@ -19,11 +19,9 @@ published: true
 
 <p>などがあります。発表資料はこんなかんじ。</p>
 
-<div style="width:425px;margin-left:2em;" id="__ss_13568142"> <iframe src="http://www.slideshare.net/slideshow/embed_code/13568142?rel=0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe> </div>
+<div style="width:425px;margin-left:2em;" id="__ss_13568142"> <iframe src="//www.slideshare.net/slideshow/embed_code/13568142?rel=0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe> </div>
 
 
 <p>GXEBは、参加したことなかったものの、会のヤバそうな温度感だけは理解していたので、どう臨むかかなり悩んだのですが、まーなんとか最低限の仕事は果たせたかな、、と思います。どの発表も面白かったですが、中でもTokyo Interactive Spam & Phishing Awardはかなり面白すぎました。アレはまじでもう一度全部見直したい。。！</p>
 
 <p>と、いうわけで誘っていただいた高本さん、発表を聞いてくださった皆さん、どうもありがとうございました！また次回もぜひ参加したいですね。</p>
-
-
