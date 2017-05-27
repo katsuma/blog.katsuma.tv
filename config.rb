@@ -88,7 +88,7 @@ def use_amp_img(html)
     scanned_src = src.start_with?('/') ? 'build' + src : src
     sizes = FastImage.size(scanned_src)
     if sizes
-      html.gsub!(IMG_LINK_REGEXP, "<amp-img src='#{src}' with='#{sizes[0]}' height='#{sizes[1]}' />")
+      html.gsub!(IMG_LINK_REGEXP, "<amp-img src='#{src}' width='#{sizes[0]}' height='#{sizes[1]}' />")
     end
   end
   html
