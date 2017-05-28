@@ -25,7 +25,7 @@ published: true
     <p>の順に処理がすすみ、最終的にはiTunesのライブラリにこのように取り込まれます。</p>
 
     <p>
-<img  src="http://blog.katsuma.tv/images/049ac944d0c9738d398daa4403b75db1.png" width="425" height="97" />
+<img src="/images/049ac944d0c9738d398daa4403b75db1.png" width="425" height="97" />
 </p>
     <p>各チャプタのタイトルは今は自動にタグ付けする仕組みはないので、そこは自前で編集を。ここもうまく自動化したいのですが、DVD自身にはトラック情報を持っていないので、amazonなりから情報をうまく吸い出すなりいい方法を模索してます。</p>
 
@@ -39,7 +39,7 @@ published: true
     <p>「アプリケーション」「ユーティリティ」から「Appleスクリプトエディタ」を起動し、「ウィンドウ」&gt;「ライブラリ」から「iTunes」を選択すると、AppleScript用のAPIが表示されます。(ちなみに裏技的に、Appleスクリプトエディタのアイコンに、iTunesのアイコンをD&Dしてもこのライブラリウィンドウは起動します。すごい使いづらいですけど。。)</p>
 
     <p>
-<img src="http://blog.katsuma.tv/images/0e20d45228d622404c53980dead9fe01.png" width="533" height="446" />
+<img src="/images/0e20d45228d622404c53980dead9fe01.png" width="533" height="446" />
 </p>
 
     <p>これを元に、上で述べたファイルを追加+エンコードの基本的な操作をまとめるとこんなかんじになります。</p>
@@ -49,7 +49,8 @@ published: true
 
     <p>また、普段irbやpryなんかで簡単な操作をしているときに、APIを確認するまでもなく、ざっとプロパティを確認することくらいはもうちょっと手軽な方法で確認できます。<a href="http://appscript.sourceforge.net/tools.html">ASDictionary</a>をインストールしておくと、各オブジェクトに対してhelpメソッドを利用できます。たとえば、現在iTunes上で選択中のトラック、current_trackには次のようなプロパティが存在することを確認できます。</p>
 
-    <p><pre>
+```
+
 $ pry
 [1] pry(main)&gt; require 'appscript'
 =&gt; true
@@ -148,7 +149,9 @@ Class: track -- playable audio source
 
 
 ==============================================================================
-=&gt; app("/Applications/iTunes.app").current_track</pre></p>
+=> app("/Applications/iTunes.app").current_track
+```
+
     <p>実際は、さきほどのAppleスクリプトエディタのヘルプ情報から引っ張ってきて表示しているだけですが、都度手元で確認できるのは便利です。ざっとAPI全体を眺めて把握した上で、手元で動かしながら動作を確認するのが開発を進める方法として良さそうです。</p>
 
     <h3>今後の予定</h3>
@@ -166,7 +169,5 @@ Class: track -- playable audio source
 
 
 <p>
-    <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00317CONK" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+    <iframe src="//rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00317CONK" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </p>
-
-

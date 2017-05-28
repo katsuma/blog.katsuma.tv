@@ -24,8 +24,5 @@ published: true
 <p>まともにRubyでコード書いたの初めてだったですけど、個人的にはPerlよりも書きやすかったかも。割とさくさく書けて楽しかったです。さらっとツール書くのは便利ですね。</p>
 
 <p>
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=4873113679&md=1X69VDGQCMF7Z30FM082&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="//rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=4873113679&md=1X69VDGQCMF7Z30FM082&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </p>
-
-
-

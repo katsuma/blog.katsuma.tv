@@ -6,14 +6,16 @@ published: true
 
 ---
 
-<a href="http://www.amazon.co.jp/gp/product/4774154881/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4774154881&linkCode=as2&tag=katsumatv-22"><img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&ASIN=4774154881&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=katsumatv-22" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=katsumatv-22&l=as2&o=9&a=4774154881" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.co.jp/gp/product/4774154881/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4774154881&linkCode=as2&tag=katsumatv-22">
+<img border="0" src="https://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&ASIN=4774154881&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=katsumatv-22" />
+</a>
 
 以前にWeb＋DB PRESSで執筆させていただいた
 
 - 「クックパッドのサービス開発」
 - 「リーンスタートアップ」
 
-についての記事が再録された<a href="http://www.amazon.co.jp/gp/product/4774154881/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774154881&linkCode=as2&tag=katsumatv-22">Webサービス開発徹底攻略 (WEB+DB PRESS plus)</a><img src="http://www.assoc-amazon.jp/e/ir?t=katsumatv-22&l=as2&o=9&a=4774154881" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />が1/26に発売されます。
+についての記事が再録された<a href="http://www.amazon.co.jp/gp/product/4774154881/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4774154881&linkCode=as2&tag=katsumatv-22">Webサービス開発徹底攻略 (WEB+DB PRESS plus)</a>が1/26に発売されます。
 
 - [WEB+DB PRESS vol.66に寄稿しました](http://blog.katsuma.tv/2011/12/webdb_press_vol_66.html)
 - [WEB+DB PRESS vol.68に寄稿しました](http://blog.katsuma.tv/2012/04/webdb_press_vol_68.html)
@@ -30,7 +32,4 @@ published: true
 
 意識を高めたい、一歩先を行きたいWebエンジニアは、1月26日に2000円を握りしめて書店へ走ろう！
 
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774154881" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-
-
+<iframe src="//rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774154881" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

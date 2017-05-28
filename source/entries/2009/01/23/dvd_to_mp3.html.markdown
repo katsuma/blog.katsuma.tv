@@ -44,7 +44,5 @@ ffmpeg -y -i hoge001.vob 001.wav
 
 <h3>まとめ</h3>
 <p>mp3/AACへの変換も結構簡単にサクサクできちゃいます。これを機会に棚で眠ってるDVDを掘り起こしてみるのはいかがでしょうか？ちなみにこれを書いてるときは原田郁子さんのライブDVDを変換して取り込んでいました。</p>
-<p><iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=B001GGBJ84&md=1X69VDGQCMF7Z30FM082&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<p><iframe src="//rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=B001GGBJ84&md=1X69VDGQCMF7Z30FM082&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </p>
-
-

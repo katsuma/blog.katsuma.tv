@@ -7,7 +7,7 @@ published: true
 ---
 
 <p>
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=4873113202&fc1=000000&IS1=1&lt1=_blank&lc1=0000FF&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="//rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=4873113202&fc1=000000&IS1=1&lt1=_blank&lc1=0000FF&bc1=FFFFFF&bg1=FFFFFF&f=ifr" width="120", height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </p>
 
 <p>もともとは先週末に開催される予定だった<a href="http://tpdrecords.com/ie/index.html">IE SOUND JAMBOREE</a>の準備中に読む予定だったのですが、<a href="http://tpdrecords.com/ie/ievol3.html">あいにく台風で中止</a>になってしまったので、この連休中に一気に読みきりました。</p>
@@ -47,4 +47,4 @@ published: true
 <p>本書ではRubyのコードはほとんどでてきません。全ページで出てくるコードを合わせても１ページに満たないかもしれません。でも、それだからこそ、早くRubyに触れたい、Railsを身に付けたい、と思わせる一冊です。唯一、難点を挙げるとすれば、PHPとの比較は予想を超えてほとんど触れられていない点です。まだまだWebアプリケーションの代表的な言語と言えるはずのPHPをもう少し挙げて、Rubyとの比較があればさらに納得できる点があったかと思えます。ただ、それでも十分に満足できる良書と言えると思います。IT系の経営者、マネージャ、開発者、全ての人におすすめの一冊です。</p>
 
 <p>
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=4873113202&fc1=000000&IS1=1&lt1=_blank&lc1=0000FF&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></p>
+<iframe src="//rcm-jp.amazon.co.jp/e/cm?t=katsumatv-22&o=9&p=8&l=as1&asins=4873113202&fc1=000000&IS1=1&lt1=_blank&lc1=0000FF&bc1=FFFFFF&bg1=FFFFFF&f=ifr" width="120", height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></p>

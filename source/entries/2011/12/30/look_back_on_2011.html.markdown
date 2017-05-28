@@ -14,7 +14,7 @@ published: true
       今回の記事の後も技評の<a href="https://twitter.com/#!/inao">稲尾さん</a>とは仲良くさせていただいているので、今後もいろいろ僕なりのものを提供し続けられればな、と思っています。
     </p>
 
-    <p><iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774149365" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+    <p><iframe src="//rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774149365" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
     </p>
 
     <h3>仕事</h3>
@@ -59,5 +59,3 @@ published: true
     <h3>2012年</h3>
     <p>仕事でもっと圧倒的な結果を出したいですね!!!!1 それを元にして自分の知見だったり考えだったりをもっと外に広げたい、サービス開発エンジニアとしてはこれはやっぱり一番強く思っています。あと、仕事以外では、デバイス絡みでなんか作りたいと思っています。思っているというか構想はあるので、少しづつそれも実現していきたいですね。(最近また復活してきましたが)blogももっと書きますぞ!</p>
     <p>と、いうわけで来年もよろしくお願いします!</p>
-
-

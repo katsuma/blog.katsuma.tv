@@ -31,8 +31,7 @@ bin/pop-zap</pre></p>
 
     <h3>iRecomonって何?</h3>
     <p>
-      <a href="http://www.amazon.co.jp/gp/product/B0053BXBVG/ref=as_li_ss_il?ie=UTF8&tag=katsumatv-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0053BXBVG"><img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=B0053BXBVG&MarketPlace=JP&ID=AsinImage&WS=1&tag=katsumatv-22&ServiceVersion=20070822" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=katsumatv-22&l=as2&o=9&a=B0053BXBVG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
+      <a href="http://www.amazon.co.jp/gp/product/B0053BXBVG/ref=as_li_ss_il?ie=UTF8&tag=katsumatv-22&linkCode=as2&camp=247&creative=7399&creativeASIN=B0053BXBVG"><img border="0" src="https://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=B0053BXBVG&MarketPlace=JP&ID=AsinImage&WS=1&tag=katsumatv-22&ServiceVersion=20070822" ></a>
     </p>
 
     <p>さて、上でいきなりiRemoconと言っていたものは、いわゆる「学習リモコン」のIP対応版のガジェットです。<a href="http://i-remocon.com/">公式サイト</a>からの説明文を引用すると、</p>
@@ -54,7 +53,8 @@ bin/pop-zap</pre></p>
     <p>さらにスマートフォン向けアプリがあるので、iPhoneやAndoridを学習リモコン化させることができ、
       家電のリモコンを全部携帯1台で集約させることができます。さらにリモコンのデザインも(頑張れば)自由に変更することができ、
       たとえば僕は電気、TV、エアコンを扱えるようにカスタマイズしています。<br />
-      <a href="http://www.flickr.com/photos/katsuma/7180699905/" title="iRemocon by katsuma, on Flickr"><img src="http://farm8.staticflickr.com/7222/7180699905_cc40a6e7b2_n.jpg" width="213" height="320" alt="iRemocon"></a>
+      <a href="http://www.flickr.com/photos/katsuma/7180699905/" title="iRemocon by katsuma, on Flickr">
+      <img src="https://farm8.staticflickr.com/7222/7180699905_cc40a6e7b2_n.jpg" width="213" height="320" alt="iRemocon"></a>
     </p>
 
     <p>使い方としては、ルータと接続し、通常の学習リモコンと同じように学習させたいボタンを順に押すだけです。
@@ -105,7 +105,5 @@ is;ok</pre>
       ほかの技術と組み合わせることでもっともっといろんなことが可能になると思うので、しばらく可能性を掘ってみたいと思います。</p>
 
     <p>
-      <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0053BXBVG" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      <iframe src="//rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0053BXBVG" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
     </p>
-
-

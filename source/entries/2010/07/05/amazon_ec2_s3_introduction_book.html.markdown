@@ -13,7 +13,7 @@ published: true
 <h3>目次</h3>
 <p>
 <ul style="list-style-type: none">
-<li>■第1章　クラウドコンピューティングへの招待 
+<li>■第1章　クラウドコンピューティングへの招待
 <ul>
 <li>1-1 クラウドコンピューティングの隆盛</li>
 <li>1-2 クラウドコンピューティングとは何か</li>
@@ -87,7 +87,5 @@ published: true
 <p>と、いうわけでAWSの導入を検討している人は当然のこと、AWSのサービスを断片的には使っているもののサービス間の連携についての知識が不十分だと思える人にとって、本書は必須な本だと思います。かなりオススメ！</p>
 
 <p>
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4774142840" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="//rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=katsumatv-22&o=9&p=8&l=as1&m=amazon&f=ifr&md=1X69VDGQCMF7Z30FM082&asins=4774142840" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </p>
-
-
