@@ -78,7 +78,7 @@ sudo /usr/local/sbin/dnsmasq
 
 稼働後、iOSのネットワークの設定で、DNSのアドレスを先ほどdnsmasqを設置したマシンのアドレスに上書きします。
 
-<a href="http://www.flickr.com/photos/katsuma/8347244546/" title="DNS setting by katsuma, on Flickr"><img src="http://farm9.staticflickr.com/8189/8347244546_4eda101542_n.jpg" width="180" height="320" alt="DNS setting"></a>
+![](https://farm9.staticflickr.com/8189/8347244546_4eda101542_n.jpg)
 
 元々のDNSはアドレスは192.168.0.1でしたが、192.168.0.6で更新しています。
 

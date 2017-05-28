@@ -6,7 +6,7 @@ published: true
 
 ---
 
-<a href="http://alohafishmans.com/"><img src="http://blog.katsuma.tv/images/logo_aloha.png" width="280" border="0"></a>
+[![](/images/logo_aloha.png)](http://alohafishmans.com/)
 
 去年の秋頃、友人経由で、Fishmansファンのためのイベント「[お彼岸ナイト](http://alohafishmans.com/events)」を開催している[ALOHA FISHMANS](http://alohafishmans.com/)の人たちを紹介してもらったのですが、何か僕で手伝えることがあれば、、というわけでサイトのフルリニューアルを手伝わせていただきました。
 
@@ -117,7 +117,8 @@ middlemanはそもそも静的サイトジェネレータなので、動的な�
 
 #### app/ticket_reservation.rb
 
-<pre>
+```
+
 require 'sinatra'
 require 'active_record'
 require 'mysql2'
@@ -132,13 +133,14 @@ class TicketReservation < Sinatra::Base
     redirect '/events/reserved'
   end
 end
-</pre>
+```
 
 こいつを`config.rb`から呼び出しておく。
 
 #### config.rb
 
-<pre>
+```
+
 require_relative 'app/ticket_reservation'
 
 ...
@@ -146,7 +148,7 @@ require_relative 'app/ticket_reservation'
 map '/tickets' do
   run TicketReservation
 end
-</pre>
+```
 
 これで、`middleman server`で手元でサーバを起動すると`/tickets`のリクエストだけSinatraでハンドリングすることができます。
 
@@ -154,7 +156,8 @@ end
 
 開発時は利用しないのですが、productionではUnicornで利用するために必要です。プロセスの再起動はいい感じのタイミングにお願いしたいので、unicorn-worker-killerに任せてます。（設定はデフォルトのまま...）
 
-<pre>
+```
+
 require_relative 'ticket_reservation'
 
 # Unicorn self-process killer
@@ -168,7 +171,7 @@ use Unicorn::WorkerKiller::Oom, (192*(1024**2)), (256*(1024**2))
 
 # Run main app
 run TicketReservation
-</pre>
+```
 
 ### production環境
 こんなかんじのディレクトリツリーにしてます。
@@ -189,7 +192,7 @@ run TicketReservation
 config.rbでの設定と同じような感じで設定します。/ticketsへのリクエストだけをUnicornを利用するようにします。こんなかんじ。
 #### alohafishmans.com.conf
 
-<pre>
+```
 upstream unicorn_alohafishmans {
   server unix:/path/to/alohafishmans.com/app/tmp/sockets/unicorn.sock
   fail_timeout=0;
@@ -209,7 +212,7 @@ server {
     root /path/to/alohafishmans.com/public;
   }
 }
-</pre>
+```
 
 ## その他の問題
 基本的な構成は以上なのですが、その他にも細かいとこにもいろいろハマりました。。一応メモがてら残しておきます。
@@ -226,9 +229,10 @@ server {
 
 なんだこりゃ。。。。と思いきや[UTF8-Mac](http://macwiki.sourceforge.jp/wiki/index.php/UTF-8-MAC)のエンコーディングに起因する話な模様。解決策としてはrsyncを3系にバージョンアップして(brew install rsyncでOK)iconvオプションをつければ良い。
 
-<pre>
+```
+
 rsync --iconv=UTF-8-MAC,UTF-8 -avz build/ foo@bar:/path/to/alohafishmans.com/public
-</pre>
+```
 
 ### FacebookのLikeをすると「You like 404 Not Found」問題
 
@@ -238,15 +242,17 @@ Likeボタンはそれなりに何度も設置しているつもりなのです�
 
 で、やっとこさ気づいたのですが元々のボタンを
 
-<pre>
+```
+
 .fb-like{ data: { layout: 'button_count', width: '130', href: CGI.escape(page_url) }}
-</pre>
+```
 
 にしていたのですがdata-hrefの指定がどうも間違っていいた模様。正解は
 
-<pre>
+```
+
 .fb-like{ data: { layout: 'button_count', width: '130', href: page_url }}
-</pre>
+```
 
 コレ。
 
@@ -259,6 +265,3 @@ Likeボタンはそれなりに何度も設置しているつもりなのです�
 また、middlemanは相当使いやすく便利な一方、少しでも凝ったことをしようとするとハマるポイントも割りとあるので、改めて別途エントリをまとめるなり、プラグイン系へ修正PR投げるなりして貢献したいと思います。
 
 最後に、Fishmans好きな人は[お彼岸ナイト](http://alohafishmans.com/events)もぜひぜひ遊びにきてください :)
-
-
-

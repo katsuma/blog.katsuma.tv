@@ -6,7 +6,7 @@ published: true
 
 ---
 
-<a href="http://www.flickr.com/photos/katsuma/8392335118/" title="Engineer Support CROSS 2013 by katsuma, on Flickr"><img src="http://farm9.staticflickr.com/8233/8392335118_bd18bae6b1_z.jpg" width="640" height="427" alt="Engineer Support CROSS 2013"></a>
+![](https://farm9.staticflickr.com/8233/8392335118_bd18bae6b1_z.jpg)
 
 同僚の[@tikeda](http://twitter.com/tikeda)さんと[@mirakui](http://twitter.com/mirakui)さんが登壇したり、その他の濃厚なセッションも多いということで、[エンジニアサポートCROSS 2013](http://www.cross-party.com/)に参加してきました。
 
@@ -31,5 +31,3 @@ published: true
 あと、さすがに数百人も参加しているだけあって、かなり久しぶりに会うエンジニアや、名前だけ知ってるけど話したことは無かったエンジニアなどと話すことができ、その面でも楽しかったです。この規模のエンジニア系イベントに参加するのはかなり久々だったけど、また参加したいなぁと心から思えるイベントでした。
 
 運営スタッフの皆さん、どうもお疲れ様でした & ありがとうございました！
-
-
