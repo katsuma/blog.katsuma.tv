@@ -1,9 +1,10 @@
 require 'fastimage'
 
 STYLE = File.read("build/stylesheets/bundle.css")
-STYLESHEET_LINK_REGEXP = /<link href=\"\/stylesheets\/bundle\.css\" rel="?stylesheet"? \/>/
+STYLESHEET_REGEXP = /<link href=\"\/stylesheets\/bundle\.css\" rel="?stylesheet"? \/>/
 
-IMG_LINK_REGEXP = /<img\s[^>]*?src\s*=\s*['\"]([^'\"]*?)['\"][^>]*?>/i
+IMG_REGEXP = /(<img([\w\W]+?)\/>)/i
+IFRAME_REGEXP = /(<iframe([\w\W]+?)><\/iframe>)/i
 
 Time.zone = "Tokyo"
 
@@ -73,29 +74,42 @@ activate :deploy do |deploy|
   deploy.flags = ENV['DEPLOY_FLAGS']
 end
 
-def modify_html_as_amp_format(path)
-  html = File.read(path)
-
+def modify_html_as_amp_format(html)
   html = use_amp_img(html)
+  html = use_amp_iframe(html)
   html = use_inline_style(html)
 
-  File.write(path, html)
+  html
 end
 
 def use_amp_img(html)
-  html.scan(IMG_LINK_REGEXP).each do |img_sources|
-    src = img_sources[0]
-    scanned_src = src.start_with?('/') ? 'build' + src : src
-    sizes = FastImage.size(scanned_src)
-    if sizes
-      html.gsub!(IMG_LINK_REGEXP, "<amp-img src='#{src}' width='#{sizes[0]}' height='#{sizes[1]}' />")
+  html.scan(IMG_REGEXP).each do |imgs|
+    src = imgs[1].match(/src=\"([\w\W]+?)\"/)[1]
+    path = src.start_with?('/') ? (build? ? "build#{src}" : "sources#{src}") : src
+    sizes = FastImage.size(path)
+    html.gsub!(imgs[0], "<amp-img src=\"#{src}\" width=\"#{sizes[0]}\" height=\"#{sizes[1]}\" />") if sizes
+  end
+  html
+end
+
+def use_amp_iframe(html)
+  html.scan(IFRAME_REGEXP).each do |iframes|
+    next unless iframes.any?
+
+    if iframes[0].include?('youtube.com')
+      w = iframes[1].match(/width=\"(\d+)\"/)[1]
+      h = iframes[1].match(/height=\"(\d+)\"/)[1]
+      v = iframes[1].match(/youtube\.com\/embed\/(.+)/)[1]
+      html.gsub!(iframes[0], "<amp-youtube width=\"#{w}\" height=\"#{h}\" layout=\"responsive\" data-videoid=\"#{v}\"></amp-youtube>")
+    else
+      html.gsub!(iframes[0], "<amp-iframe #{iframes[1]}></amp-iframe>")
     end
   end
   html
 end
 
 def use_inline_style(html)
-  html.gsub(STYLESHEET_LINK_REGEXP, "<style amp-custom>#{STYLE}</style>")
+  html.gsub(STYLESHEET_REGEXP, "<style amp-custom>#{STYLE}</style>")
 end
 
 amp_paths = []
@@ -111,8 +125,16 @@ ready do
   end
 end
 
+app.after_render do |html, path, locations|
+  if locations[:current_path].end_with?('.amp')
+    modify_html_as_amp_format(html)
+  end
+end
+
 after_build do
   amp_paths.each do |path|
-    modify_html_as_amp_format("build/#{path}")
+    build_path = "build/#{path}"
+    html = modify_html_as_amp_format(File.read(build_path))
+    File.write(build_path, html)
   end
 end
