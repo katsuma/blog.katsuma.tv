@@ -99,7 +99,7 @@ def use_amp_iframe(html)
     if iframes[0].include?('youtube.com')
       w = iframes[1].match(/width=\"?(\d+)\"?/)[1]
       h = iframes[1].match(/height=\"?(\d+)\"?/)[1]
-      v = iframes[1].match(/youtube\.com\/embed\/(.+)/)[1]
+      v = iframes[1].match(/src=\"\/\/www.youtube\.com\/embed\/(.+)\"/)[1]
       html.gsub!(iframes[0], "<amp-youtube width=\"#{w}\" height=\"#{h}\" layout=\"responsive\" data-videoid=\"#{v}\"></amp-youtube>")
     else
       html.gsub!(iframes[0], "<amp-iframe #{iframes[1]}></amp-iframe>")
