@@ -97,8 +97,8 @@ def use_amp_iframe(html)
     next unless iframes.any?
 
     if iframes[0].include?('youtube.com')
-      w = iframes[1].match(/width=\"(\d+)\"/)[1]
-      h = iframes[1].match(/height=\"(\d+)\"/)[1]
+      w = iframes[1].match(/width=\"?(\d+)\"?/)[1]
+      h = iframes[1].match(/height=\"?(\d+)\"?/)[1]
       v = iframes[1].match(/youtube\.com\/embed\/(.+)/)[1]
       html.gsub!(iframes[0], "<amp-youtube width=\"#{w}\" height=\"#{h}\" layout=\"responsive\" data-videoid=\"#{v}\"></amp-youtube>")
     else
@@ -126,13 +126,16 @@ ready do
 end
 
 app.after_render do |html, path, locations|
-  if locations[:current_path].end_with?('.amp')
+  if !build? && locations[:current_path].end_with?('.amp')
     modify_html_as_amp_format(html)
   end
 end
 
 after_build do
-  amp_paths.each do |path|
+  logger.info "== Re-Build amp page (#{amp_paths.size})"
+  amp_paths.each_with_index do |path, index|
+    logger.info "== [#{index+1}/#{amp_paths.size}] #{path}"
+
     build_path = "build/#{path}"
     html = modify_html_as_amp_format(File.read(build_path))
     File.write(build_path, html)
