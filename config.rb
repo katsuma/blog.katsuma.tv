@@ -6,6 +6,8 @@ STYLESHEET_REGEXP = /<link href=\"\/stylesheets\/bundle\.css\" rel="?stylesheet"
 IMG_REGEXP = /(<img([\w\W]+?)\/>)/i
 IFRAME_REGEXP = /(<iframe([\w\W]+?)><\/iframe>)/i
 
+HOST = "blog.katsuma.tv"
+
 Time.zone = "Tokyo"
 
 # With no layout
@@ -20,7 +22,7 @@ set :markdown, fenced_code_blocks: true, smartypants: true
 
 helpers do
   def host
-    "blog.katsuma.tv"
+    HOST
   end
 
   def description
@@ -72,6 +74,11 @@ activate :deploy do |deploy|
   deploy.path  = ENV['DEPLOY_PATH']
   deploy.user  = ENV['DEPLOY_USER']
   deploy.flags = ENV['DEPLOY_FLAGS']
+end
+
+activate :sitemap_ping do |config|
+  config.host         = "https://#{HOST}"
+  config.after_build  = false
 end
 
 def modify_html_as_amp_format(html)

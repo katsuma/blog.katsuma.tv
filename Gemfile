@@ -9,6 +9,7 @@ gem "middleman-sprockets", "~> 4.1.0"
 gem "middleman-minify-html", "~> 3.4.1"
 gem "middleman-livereload", '~> 3.4.6'
 gem "middleman-deploy", '~> 2.0.0.pre.alpha'
+gem "middleman-sitemap-ping", "1.0.0"
 
 gem "dotenv", "~> 2.2.1"
 gem "haml", "~> 4.0"
