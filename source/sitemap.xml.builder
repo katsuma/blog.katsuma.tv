@@ -8,7 +8,7 @@ xml.urlset "xmlns" => "http://www.sitemaps.org/schemas/sitemap/0.9" do
         xml.loc "https://blog.katsuma.tv#{resource.url}"
 
         lastmod = resource.data.date.presence
-        xml.lastmod lastmod if lastmod.present?
+        xml.lastmod Date.parse(lastmod).to_s if lastmod.present?
 
         xml.priority case resource.path
         when /\Aentries\//
